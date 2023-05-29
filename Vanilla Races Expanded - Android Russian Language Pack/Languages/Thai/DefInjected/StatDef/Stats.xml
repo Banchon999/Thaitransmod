@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <VREA_MemorySpaceDrainMultiplier.label>ตัวคูณการระบายพื้นที่หน่วยความจำ</VREA_MemorySpaceDrainMultiplier.label>
-  <VREA_MemorySpaceDrainMultiplier.description>ตัวคูณในการระบายพื้นที่หน่วยความจำใน Android</VREA_MemorySpaceDrainMultiplier.description>
-
-
-</LanguageData>
