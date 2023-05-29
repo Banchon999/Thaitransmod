@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_MemorySpace.label>พื้นที่หน่วยความจำ</VREA_MemorySpace.label>
+  <VREA_MemorySpace.description>พื้นที่หน่วยความจำคือพื้นที่ฮาร์ดไดรฟ์ที่เหลืออยู่ใน Android ในระหว่างวันพื้นที่หน่วยความจำจะหมดลง หากค่านี้อยู่ที่ศูนย์ Android จะเข้าสู่สถานะฟอร์แมตใหม่จนกว่าจะมีพื้นที่ว่างในหน่วยความจำเพียงพอเพื่อดำเนินการต่อ</VREA_MemorySpace.description>
+
+  <VREA_ReactorPower.label>พลังงาน</VREA_ReactorPower.label>
+  <VREA_ReactorPower.description>พลังงานคืออายุการใช้งานที่เหลืออยู่ในเครื่องปฏิกรณ์ในตัวของ Android หากเตาปฏิกรณ์หมดอายุการใช้งาน อาจจำเป็นต้องเปลี่ยนใหม่ Android ที่ไม่มีแหล่งพลังงานที่ใช้งานได้จะไม่สามารถทำงานได้</VREA_ReactorPower.description>
+
+  <VREA_FoodSuppressed.label>ยังเป็นโครง คุณไม่ควรเห็น โปรดรายงานหากเป็นอย่างอื่น</VREA_FoodSuppressed.label>
+  <VREA_FoodSuppressed.description>ไม่ต้องสนใจ</VREA_FoodSuppressed.description>
+
+
+</LanguageData>

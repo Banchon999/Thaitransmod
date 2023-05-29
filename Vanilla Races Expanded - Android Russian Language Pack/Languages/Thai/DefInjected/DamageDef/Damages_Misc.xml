@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_Freeze.label>หยุด</VREA_Freeze.label>
+  <VREA_Freeze.deathMessage>{0} ถูกแช่แข็ง</VREA_Freeze.deathMessage>
+
+  <VREA_EMPBurn.label>เผา EMP</VREA_EMPBurn.label>
+  <VREA_EMPBurn.deathMessage>{0} ถูก EMPed จนเสียชีวิตแล้ว</VREA_EMPBurn.deathMessage>
+
+
+</LanguageData>

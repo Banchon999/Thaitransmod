@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_NeuroPump.label>ปั๊มประสาท</VREA_NeuroPump.label>
+  <VREA_NeuroPump.description>neuropump หุ่นยนต์สังเคราะห์ กระจายนิวโตรมีนในระบบย่อยของ แอนดรอยด์ ทั้งหมด</VREA_NeuroPump.description>
+
+<VREA_AirFilter.label>ตัวกรองอากาศ</VREA_AirFilter.label>
+  <VREA_AirFilter.description>ตัวกรองอากาศสังเคราะห์สำหรับ แอนดรอยด์ สิ่งเหล่านี้สร้างระบบทางเดินหายใจของ แอนดรอยด์</VREA_AirFilter.description>
+
+  <VREA_Neutrofilter.label>ตัวกรองนิวโทร</VREA_Neutrofilter.label>
+  <VREA_Neutrofilter.description>ตัวกรองนิวโทรฟิลสำหรับ แอนดรอยด์ สังเคราะห์ ทำความสะอาดและรีไซเคิลนิวโทรเอมีนที่ใช้ไปแล้ว</VREA_Neutrofilter.description>
+<VREA_MetabolismRegulator.label>ตัวควบคุมการเผาผลาญ</VREA_MetabolismRegulator.label>
+  <VREA_MetabolismRegulator.description>สารควบคุมเมแทบอลิซึมของ แอนดรอยด์ สังเคราะห์ ช่วยรักษาประสิทธิภาพการใช้พลังงานสูงสุด</VREA_MetabolismRegulator.description>
+
+  <VREA_Reactor.label>เครื่องปฏิกรณ์</VREA_Reactor.label>
+  <VREA_Reactor.description>เครื่องปฏิกรณ์หุ่นยนต์สังเคราะห์ เมื่อใช้เตาปฏิกรณ์แล้ว จะต้องแยกออกและเปลี่ยนใหม่</VREA_Reactor.description>
+<VREA_OpticalUnit.label>หน่วยแสง</VREA_OpticalUnit.label>
+  <VREA_OpticalUnit.description>หน่วยออปติคัล แอนดรอยด์ สังเคราะห์ อนุญาตให้ แอนดรอยด์ มองเห็น</VREA_OpticalUnit.description>
+
+  <VREA_AudioProcessor.label>ตัวประมวลผลเสียง</VREA_AudioProcessor.label>
+  <VREA_AudioProcessor.description>ตัวประมวลผลเสียง แอนดรอยด์ แบบสังเคราะห์ อนุญาตให้ แอนดรอยด์ ได้ยิน</VREA_AudioProcessor.description>
+
+  <VREA_ArtificialNose.label>จมูกเทียม</VREA_ArtificialNose.label>
+<VREA_ArtificialNose.description>จมูกหุ่นยนต์สังเคราะห์ ช่วยให้หุ่นยนต์ตรวจจับกลิ่นได้</VREA_ArtificialNose.description>
+
+  <VREA_ArtificialJaw.label>ขากรรไกรเทียม</VREA_ArtificialJaw.label>
+  <VREA_ArtificialJaw.description>ขากรรไกรหุ่นยนต์สังเคราะห์</VREA_ArtificialJaw.description>
+
+  <VREA_ArtificialRibcage.label>ซี่โครงเทียม</VREA_ArtificialRibcage.label>
+  <VREA_ArtificialRibcage.description>ซี่โครงหุ่นยนต์สังเคราะห์</VREA_ArtificialRibcage.description>
+<VREA_ArtificialSpine.label>กระดูกสันหลังเทียม</VREA_ArtificialSpine.label>
+  <VREA_ArtificialSpine.description>กระดูกสันหลังหุ่นยนต์สังเคราะห์</VREA_ArtificialSpine.description>
+
+  <VREA_AndroidLeg.label>ส่วนขาของ Android</VREA_AndroidLeg.label>
+  <VREA_AndroidLeg.description>ขาหุ่นยนต์สังเคราะห์</VREA_AndroidLeg.description>
+
+  <VREA_AndroidFoot.label>เท้า แอนดรอยด์</VREA_AndroidFoot.label>
+  <VREA_AndroidFoot.description>เท้าหุ่นยนต์สังเคราะห์</VREA_AndroidFoot.description>
+<VREA_AndroidArm.label>แขนหุ่นยนต์</VREA_AndroidArm.label>
+  <VREA_AndroidArm.description>แขนหุ่นยนต์สังเคราะห์</VREA_AndroidArm.description>
+
+  <VREA_AndroidHand.label>มือ แอนดรอยด์</VREA_AndroidHand.label>
+  <VREA_AndroidHand.description>แขนหุ่นยนต์สังเคราะห์</VREA_AndroidHand.description>
+
+
+</LanguageData>

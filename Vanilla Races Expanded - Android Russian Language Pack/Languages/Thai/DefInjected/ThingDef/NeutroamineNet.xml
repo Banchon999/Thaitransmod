@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_NeutroPipe.label>ท่อนิวโทร</VREA_NeutroPipe.label>
+  <VREA_NeutroPipe.description>ท่อปลอดเชื้อน้ำหนักเบาสำหรับขนส่งนิวโตรเอมีนเหลวจำนวนมากเข้าและออกจากถัง</VREA_NeutroPipe.description>
+  <VREA_NeutroPipe_Blueprint.label>ท่อนิวโตร (พิมพ์เขียว)</VREA_NeutroPipe_Blueprint.label>
+  <VREA_NeutroPipe_Frame.label>ท่อนิวโทร (ก่อสร้าง)</VREA_NeutroPipe_Frame.label>
+  <VREA_NeutroPipe_Frame.description>ท่อปลอดเชื้อน้ำหนักเบาสำหรับขนส่งนิวโทรเอมีนเหลวจำนวนมากเข้าและออกจากถัง</VREA_NeutroPipe_Frame.description>
+
+  <VREA_NeutroTank.label>ถังนิวโทร</VREA_NeutroTank.label>
+  <VREA_NeutroTank.description>ถังเก็บของเหลวที่ปราศจากเชื้อและเบาสำหรับเก็บนิวโทรเอมีนที่ส่งผ่านเครือข่ายท่อนิวโทรเอมีน โดยปกติแล้วจำเป็นสำหรับเครื่องจักรที่สามารถสังเคราะห์รูปแบบชีวิตได้ ซึ่งมิฉะนั้นก็จะใช้นิวโตรเอมีนมากเกินกว่าที่จะเติมด้วยตนเองอย่างสมเหตุสมผล</VREA_NeutroTank.description>
+
+  <VREA_NeutroTap.label>นิวโทรแทป</VREA_NeutroTap.label>
+  <VREA_NeutroTap.description>อ่างเก็บแบบถังเก็บนิวโทรเอมีนที่จ่ายออกจากถังเป็นระยะเพื่อใช้ในภายหลัง</VREA_NeutroTap.description>
+
+  <VREA_NeutroDrain.label>ท่อระบายนิวโทร</VREA_NeutroDrain.label>
+  <VREA_NeutroDrain.description>แอ่งเก็บคล้ายถังสำหรับป้อนนิวโทรเอมีนเข้าสู่เครือข่าย เติมถังที่เชื่อมต่อ</VREA_NeutroDrain.description>
+
+
+</LanguageData>

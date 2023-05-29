@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_FreeMemorySpace.reportString>เพิ่มพื้นที่หน่วยความจำ</VREA_FreeMemorySpace.reportString>
+  <VREA_TendAndroid.reportString>พุ่งไปที่ TargetA</VREA_TendAndroid.reportString>
+  <VREA_CreateAndroid.reportString>กำลังสร้าง Android ที่ TargetA</VREA_CreateAndroid.reportString>
+  <VREA_ModifyAndroid.reportString>การแก้ไข android ที่ TargetA</VREA_ModifyAndroid.reportString>
+  <VREA_ReplaceReactor.reportString>เปลี่ยนเครื่องปฏิกรณ์ของตัวเองด้วย TargetA</VREA_ReplaceReactor.reportString>
+  <VREA_RepairAndroid.reportString>กำลังซ่อมแซม TargetA</VREA_RepairAndroid.reportString>
+
+
+</LanguageData>

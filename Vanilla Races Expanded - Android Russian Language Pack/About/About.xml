@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Thai]Vanilla Races Expanded Android</name>
+    <author>Demax</author>
+	<supportedVersions>
+		<li>1.4</li>
+	    </supportedVersions>
+	  <packageId>vanillaEX.Transmod</packageId>
+  <loadAfter>
+		<li>vanillaracesexpanded.android</li>
+	</loadAfter>
+	 <description>
+      แปลไทยโดยDemax
+	   </description>
+</ModMetaData>
