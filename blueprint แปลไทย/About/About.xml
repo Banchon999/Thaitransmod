@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+    <name>Blueprints แปลไทย</name>
+    <author>Demax</author>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <packageId>Demax.Transmod.blue</packageId>
+    <description>แปลไทยทั้งหมดเลยนะจะ
+
+    Blueprints คืออุปกรณ์ที่ช่วยให้คุณสามารถสร้างแผนผังและการวางแนวก่อสร้างได้อย่างสะดวกและรวดเร็วในเกม Rimworld ซึ่งมีประโยชน์มากสำหรับการจัดการฐานและการสร้างสิ่งก่อสร้างในเวลาที่สั้นๆ คุณสามารถใช้ Blueprints เพื่อวางแผนการสร้างห้อง, การต่อเติมอาคาร, หรืออื่นๆ ที่คุณต้องการในเกม Rimworld.
+
+    Credit:
+    Demax
+    Blueprints
+    </description>
+</ModMetaData>

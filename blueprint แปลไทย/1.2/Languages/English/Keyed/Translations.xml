@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fluffy.Blueprints.DefaultBlueprintName>พิมพ์เขียว</Fluffy.Blueprints.DefaultBlueprintName>
+  <Fluffy.Blueprints.NameAlreadyTaken>"{0}" มีชื่ออยู่แล้ว. โปรดเลือกชื่อที่ไม่ซ้ำกันนะจะ</Fluffy.Blueprints.NameAlreadyTaken>
+  <Fluffy.Blueprints.InvalidBlueprintName>"{0}" เป็นชื่อที่ไม่ถูกต้อง \nโปรดใช้เฉพาะอักขระที่เป็นตัวอักษรและตัวเลขคละกันและเครื่องหมายขีดล่าง (a-Z, _) ไม่อนุญาตให้ใช้ช่องว่าง</Fluffy.Blueprints.InvalidBlueprintName>
+  <Fluffy.Blueprints.LoadFromXML>พิมพ์เขียวนำเข้า "{0}"</Fluffy.Blueprints.LoadFromXML>
+  <Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>ไม่สามารถสร้างพิมพ์เขียวได้ ไม่ได้เลือกใว้</Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>
+  <Fluffy.Blueprint.Cost>ค่าใช้จ่ายทั้งหมด:</Fluffy.Blueprint.Cost>
+  <Fluffy.Blueprints.Remove>ลบพิมพ์เขียว</Fluffy.Blueprints.Remove>
+  <Fluffy.Blueprints.SaveToXML>พิมพ์เขียวนำออก</Fluffy.Blueprints.SaveToXML>
+  <Fluffy.Blueprints.RemoveAndDeleteXML>ลบพิมพ์เขียวและลบพิมพ์เขียวที่นำออก</Fluffy.Blueprints.RemoveAndDeleteXML>
+  <Fluffy.Blueprints.Rename>เปลี่ยนชื่อพิมพ์เขียว</Fluffy.Blueprints.Rename>
+  <Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>พิมพ์เขียวที่นำออกชื่อ "{0}" มีอยู่แล้ว\nโปรดเลือกชื่ออื่น</Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>
+  <Fluffy.Blueprints.Create>สร้าง</Fluffy.Blueprints.Create>
+  <Fluffy.Blueprints.CreateHelp>คลิกซ้ายเพื่อสร้างพิมพ์เขียวใหม่\nคลิกขวาเพื่อนำเข้าพิมพ์เขียว</Fluffy.Blueprints.CreateHelp>
+  <Fluffy.Blueprints.NoStoredBlueprints>ไม่มีพิมพ์เขียวที่นำออก (หรือโหลดทั้งหมดแล้ว)</Fluffy.Blueprints.NoStoredBlueprints>
+  <Fluffy.Blueprints.NothingAvailableInBlueprint>ไม่มีรายการใดใน {0} ที่สามารถสร้างได้ด้วยเทคโนโลยีปัจจุบัน</Fluffy.Blueprints.NothingAvailableInBlueprint>
+  <Fluffy.Blueprints.XNotAvailableInBlueprint>บางรายการใน {0} ไม่สามารถสร้างได้ด้วยเทคโนโลยีปัจจุบัน: {1}</Fluffy.Blueprints.XNotAvailableInBlueprint>
+
+  <Fluffy.Blueprints.UnFlippable.HasInteractionCell>{0} ไม่สามารถหมุนได้และมีจุดโต้ตอบ การพลิกอาจทำให้ตำแหน่งไม่ถูกต้อง</Fluffy.Blueprints.UnFlippable.HasInteractionCell>
+  <Fluffy.Blueprints.UnRotatable.HasInteractionCell>{0} ไม่สามารถหมุนได้และมีจุดโต้ตอบ การหมุนอาจทำให้ตำแหน่งไม่ถูกต้อง</Fluffy.Blueprints.UnRotatable.HasInteractionCell>
+  <Fluffy.Blueprints.UnRotatable.NonSquare>{0} ไม่สามารถหมุนได้และไม่เป็นสี่เหลี่ยมจัตุรัส การหมุนพิมพ์เขียวจะทำให้การวางไม่ถูกต้อง {0}.</Fluffy.Blueprints.UnRotatable.NonSquare>
+
+  <!-- I'm aware this is a _very_ suboptimal solution, but short of writing a custom languageWorker like thing for each language, this will have to do. It's only for default blueprint names anyway. -->
+  <Fluffy.Blueprints.Plural>{0}s</Fluffy.Blueprints.Plural>
+
+  <!-- copy command -->
+  <Fluffy.Blueprints.Copy>ก๊อบปี้</Fluffy.Blueprints.Copy>
+  <Fluffy.Blueprints.CreateFromSelection>สร้างพิมพ์เขียว</Fluffy.Blueprints.CreateFromSelection>
+  <Fluffy.Blueprints.CopyHelp>สร้างพิมพ์เขียวชั่วคราวจากวัตถุที่เลือก\in\คลิกขวา: สร้างพิมพ์เขียวถาวรจากอาคารที่เลือกในปัจจุบัน</Fluffy.Blueprints.CopyHelp>
+
+  <!-- Options -->
+  <Fluffy.Blueprints>พิมพ์เขียว</Fluffy.Blueprints>
+  <Fluffy.Blueprints.CopyKey>คัดลอกคีย์ทางลัด</Fluffy.Blueprints.CopyKey>
+
+</LanguageData>
