@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: android -->
+	<VRE_Androids_Respected_Opinion.stages.0.label>แอนดรอยด์</VRE_Androids_Respected_Opinion.stages.0.label>
+	<!-- EN: no androids -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.0.label>ไม่มีแอนดรอยด์</VRE_Androids_Respected_AndroidsInColony.stages.0.label>
+	<!-- EN: I would prefer to have some androids in the colony. -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.0.description>ฉันหวังว่าจะมีหุ่นยนต์สองสามตัวในนิคม.</VRE_Androids_Respected_AndroidsInColony.stages.0.description>
+	<!-- EN: surrounded by androids -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.1.label>ล้อมรอบด้วยหุ่นยนต์</VRE_Androids_Respected_AndroidsInColony.stages.1.label>
+	<!-- EN: I like having androids around. They are great! -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.1.description>ฉันชอบที่จะมีหุ่นยนต์อยู่รอบตัวฉัน พวกเขายอดเยี่ยมมาก!</VRE_Androids_Respected_AndroidsInColony.stages.1.description>
+	<!-- EN: surrounded by androids -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.2.label>ล้อมรอบด้วยหุ่นยนต์</VRE_Androids_Respected_AndroidsInColony.stages.2.label>
+	<!-- EN: I like having androids around. They are great! -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.2.description>ฉันชอบที่จะมีหุ่นยนต์อยู่รอบตัวฉัน พวกเขายอดเยี่ยมมาก!</VRE_Androids_Respected_AndroidsInColony.stages.2.description>
+	<!-- EN: surrounded by androids -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.3.label>ล้อมรอบด้วยหุ่นยนต์</VRE_Androids_Respected_AndroidsInColony.stages.3.label>
+	<!-- EN: I like having androids around. They are great! -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.3.description>ฉันชอบที่จะมีหุ่นยนต์อยู่รอบตัวฉัน</VRE_Androids_Respected_AndroidsInColony.stages.3.description>
+	<!-- EN: surrounded by androids -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.4.label>ล้อมรอบด้วยหุ่นยนต์</VRE_Androids_Respected_AndroidsInColony.stages.4.label>
+	<!-- EN: I like having androids around. They are great! -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.4.description>ฉันชอบที่จะมีหุ่นยนต์อยู่รอบตัวฉัน</VRE_Androids_Respected_AndroidsInColony.stages.4.description>
+	<!-- EN: surrounded by androids -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.5.label>ล้อมรอบด้วยหุ่นยนต์</VRE_Androids_Respected_AndroidsInColony.stages.5.label>
+	<!-- EN: I like having androids around. They are great! -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.5.description>ฉันชอบที่จะมีหุ่นยนต์อยู่รอบตัวฉัน</VRE_Androids_Respected_AndroidsInColony.stages.5.description>
+	<!-- EN: surrounded by androids -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.6.label>ล้อมรอบด้วยหุ่นยนต์</VRE_Androids_Respected_AndroidsInColony.stages.6.label>
+	<!-- EN: I like having androids around. They are great! -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.6.description>ฉันชอบที่จะมีหุ่นยนต์อยู่รอบตัวฉัน</VRE_Androids_Respected_AndroidsInColony.stages.6.description>
+	<!-- EN: surrounded by androids -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.7.label>ล้อมรอบด้วยหุ่นยนต์</VRE_Androids_Respected_AndroidsInColony.stages.7.label>
+	<!-- EN: I like having androids around. They are great! -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.7.description>ฉันชอบที่จะมีหุ่นยนต์อยู่รอบตัวฉัน</VRE_Androids_Respected_AndroidsInColony.stages.7.description>
+	<!-- EN: surrounded by androids -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.8.label>ล้อมรอบด้วยหุ่นยนต์</VRE_Androids_Respected_AndroidsInColony.stages.8.label>
+	<!-- EN: I like having androids around. They are great! -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.8.description>ฉันชอบที่จะมีหุ่นยนต์อยู่รอบตัวฉัน</VRE_Androids_Respected_AndroidsInColony.stages.8.description>
+	<!-- EN: surrounded by androids -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.9.label>ล้อมรอบด้วยหุ่นยนต์</VRE_Androids_Respected_AndroidsInColony.stages.9.label>
+	<!-- EN: I like having androids around. They are great! -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.9.description>ฉันชอบที่จะมีหุ่นยนต์อยู่รอบตัวฉัน</VRE_Androids_Respected_AndroidsInColony.stages.9.description>
+	<!-- EN: surrounded by androids -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.10.label>ล้อมรอบด้วยหุ่นยนต์</VRE_Androids_Respected_AndroidsInColony.stages.10.label>
+	<!-- EN: I like having androids around. They are great! -->
+	<VRE_Androids_Respected_AndroidsInColony.stages.10.description>ฉันชอบที่จะมีหุ่นยนต์อยู่รอบตัวฉัน</VRE_Androids_Respected_AndroidsInColony.stages.10.description>
+	<!-- EN: android -->
+	<VRE_Androids_Despised_Opinion.stages.0.label>แอนดรอยด์</VRE_Androids_Despised_Opinion.stages.0.label>
+	<!-- EN: android died -->
+	<VRE_AndroidDied_Despised.stages.0.label>แอนดรอยด์เสียชีวิต </VRE_AndroidDied_Despised.stages.0.label>
+	<!-- EN: The only good android is a dead one. -->
+	<VRE_AndroidDied_Despised.stages.0.description>แอนดรอยด์ที่ดีคือแอนดรอยด์ที่ตายแล้ว</VRE_AndroidDied_Despised.stages.0.description>
+	<!-- EN: android self hatred -->
+	<VRE_AndroidSelfHatred_Despised.stages.0.label>แอนดรอยด์ เกลียดตัวเอง</VRE_AndroidSelfHatred_Despised.stages.0.label>
+	<!-- EN: I am what I hate. My whole existence is aberrant. -->
+	<VRE_AndroidSelfHatred_Despised.stages.0.description>ฉันเกลียดตัวเอง. การดำรงอยู่ของฉันนั้นผิดธรรมชาติ</VRE_AndroidSelfHatred_Despised.stages.0.description>
+	<!-- EN: android among us -->
+	<VRE_AndroidColonist_Despised.stages.0.label>ในหมู่พวกเรา Android</VRE_AndroidColonist_Despised.stages.0.label>
+	<!-- EN: One of them walks among us. We should expel the android from our home. -->
+	<VRE_AndroidColonist_Despised.stages.0.description>หนึ่งในนั้นคือพวกเรา เราต้องขับไล่ แอนดรอยด์ ออกจากนิคมของเรา.</VRE_AndroidColonist_Despised.stages.0.description>
+</LanguageData>

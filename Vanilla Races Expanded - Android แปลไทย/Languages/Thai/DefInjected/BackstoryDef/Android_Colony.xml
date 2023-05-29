@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Colony android -->
+
+  <ColonyAndroidA01.title>โคโลนีแอนดรอยด์</ColonyAndroidA01.title>
+  <ColonyAndroidA01.titleShort>โคโลนีแอนดรอยด์</ColonyAndroidA01.titleShort>
+  <ColonyAndroidA01.baseDesc>[PAWN_nameDef] ถูกสร้างขึ้นในอาณานิคมในช่วงที่ผ่านมา อนาคตอาจมีหลายสิ่งหลายอย่างสำหรับ [PAWN_objective]</ColonyAndroidA01.baseDesc>
+
+
+</LanguageData>

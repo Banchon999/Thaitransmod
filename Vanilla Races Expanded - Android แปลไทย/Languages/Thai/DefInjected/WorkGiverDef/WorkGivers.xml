@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_DoBillsUseAndroidPartWorkbench.label>สร้างชิ้นส่วน แอนดรอยด์ ที่ปรับแต่งส่วน แอนดรอยด์</VREA_DoBillsUseAndroidPartWorkbench.label>
+  <VREA_DoBillsUseAndroidPartWorkbench.verb>ประดิษฐ์</VREA_DoBillsUseAndroidPartWorkbench.verb>
+  <VREA_DoBillsUseAndroidPartWorkbench.gerund>การประดิษฐ์ที่</VREA_DoBillsUseAndroidPartWorkbench.gerund>
+
+  <VREA_CrafterTendAndroids.label>มีแนวโน้มเป็นแอนดรอยด์</VREA_CrafterTendAndroids.label>
+  <VREA_CrafterTendAndroids.verb>มีแนวโน้มที่จะ</VREA_CrafterTendAndroids.verb>
+  <VREA_CrafterTendAndroids.gerund>พุ่งไปที่</VREA_CrafterTendAndroids.gerund>
+
+  <VREA_HaulToSubcorePolyanalyzer.label>ลากทรัพยากรไปยังโพลิวิเคราะห์คอร์ย่อย</VREA_HaulToSubcorePolyanalyzer.label>
+
+  <VREA_CarryToSubcorePolyanalyzer.label>ส่งไปยังโพลิเอนาไลเซอร์ย่อย</VREA_CarryToSubcorePolyanalyzer.label>
+  <VREA_CarryToSubcorePolyanalyzer.verb>พกพา</VREA_CarryToSubcorePolyanalyzer.verb>
+  <VREA_CarryToSubcorePolyanalyzer.gerund>แบก</VREA_CarryToSubcorePolyanalyzer.gerund>
+  <VREA_CarryToAndroidBehavioristStation.label>พกพาไปที่สถานีพฤติกรรมนิยม Android</VREA_CarryToAndroidBehavioristStation.label>
+  <VREA_CarryToAndroidBehavioristStation.verb>พกพา</VREA_CarryToAndroidBehavioristStation.verb>
+  <VREA_CarryToAndroidBehavioristStation.gerund>แบก</VREA_CarryToAndroidBehavioristStation.gerund>
+
+  <VREA_CreateAndroid.label>กำลังสร้าง แอนดรอยด์ ที่สถานี</VREA_CreateAndroid.label>
+  <VREA_CreateAndroid.verb>สร้าง แอนดรอยด์ ที่</VREA_CreateAndroid.verb>
+  <VREA_CreateAndroid.gerund>สร้าง แอนดรอยด์ ที่</VREA_CreateAndroid.gerund>
+
+  <VREA_ModifyAndroid.label>แก้ไข แอนดรอยด์ ที่สถานี</VREA_ModifyAndroid.label>
+  <VREA_ModifyAndroid.verb>แก้ไข แอนดรอยด์ ที่</VREA_ModifyAndroid.verb>
+  <VREA_ModifyAndroid.gerund>แก้ไข แอนดรอยด์ ที่</VREA_ModifyAndroid.gerund>
+
+  <VREA_RepairAndroid.label>ซ่อมแซมแอนดรอยด์</VREA_RepairAndroid.label>
+  <VREA_RepairAndroid.verb>ซ่อมแซม</VREA_RepairAndroid.verb>
+  <VREA_RepairAndroid.gerund>กำลังซ่อมแซม</VREA_RepairAndroid.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_AndroidPartWorkbench.label>ส่วนปรับแต่ง แอนดรอยด์</VREA_AndroidPartWorkbench.label>
+  <VREA_AndroidPartWorkbench.description>โต๊ะทำงานที่ติดตั้งเทคโนโลยีการพิมพ์ระดับโมเลกุลเพื่อผลิตชิ้นส่วนทดแทนแบบเอกพจน์สำหรับสิ่งมีชีวิตสังเคราะห์</VREA_AndroidPartWorkbench.description>
+
+  <VREA_SubcorePolyanalyzer.label>โพลิอะนาไลเซอร์ย่อย</VREA_SubcorePolyanalyzer.label>
+  <VREA_SubcorePolyanalyzer.description>อุปกรณ์ขนาดใหญ่ที่มีพ็อดที่ติดตั้งหัววัดเนื้อเยื่อจำนวนมากและเครื่องสแกนระบบประสาทขั้นสูง ออกแบบมาเพื่อรองรับทีละคน ระบบต้องการบุคคลสี่คนที่แยกจากกันเพื่อผ่านการสแกนตามลำดับ เมื่อใส่เข้าไป เครื่องวิเคราะห์โพลิเอนาไลเซอร์จะทำงานร่วมกับโพรบและเครื่องสแกนเพื่อวิเคราะห์รูปแบบทางประสาท-จิตของแต่ละคน การใช้อัลกอริธึมที่ซับซ้อน อุปกรณ์จะหลอมรวมรูปแบบที่แตกต่างกันเหล่านี้เป็นบุคลิกที่ซับซ้อนเพียงหนึ่งเดียวหลังจากที่บุคคลทั้งสี่ได้รับการสแกน จากนั้นบุคลิกแบบผสมนี้จะถูกถ่ายโอนแบบดิจิทัลไปยังแกนย่อยของตัวละครแบบผสมระดับใหม่ กระบวนการนี้อาจทำให้ผู้เข้าร่วมรู้สึกไม่สบายชั่วคราวและสับสน แต่ก็ปล่อยให้พวกเขาไม่ได้รับอันตราย คอร์ย่อยของ Persona ที่สร้างโดยอุปกรณ์นี้สามารถใช้เพื่อสร้างหุ่นยนต์ที่ซับซ้อนและเหมือนมนุษย์เท่านั้น</VREA_SubcorePolyanalyzer.description>
+
+  <VREA_AndroidCreationStation.label>สถานีสร้าง Android</VREA_AndroidCreationStation.label>
+  <VREA_AndroidCreationStation.description>สถานีการผลิตที่สามารถประกอบ Android จากวัสดุที่หลากหลายและส่วนประกอบขั้นสูง รูปลักษณ์ของ Android แทบจะปรับแต่งได้ทั้งหมด แต่จำกัดเฉพาะการเลียนแบบมนุษย์พื้นฐานเท่านั้น\n\nขึ้นอยู่กับฮาร์ดแวร์และองค์ประกอบรูทีนย่อยของ Android งานในการสร้างและทรัพยากรที่จำเป็นในการดำเนินการอาจแตกต่างกันไป</VREA_AndroidCreationStation.description>
+  <VREA_AndroidBehavioristStation.label>สถานีพฤติกรรมนิยม Android</VREA_AndroidBehavioristStation.label>
+  <VREA_AndroidBehavioristStation.description>สถานีการเขียนโปรแกรมซ้ำเพื่อเติมคุณลักษณะและทักษะที่พึงประสงค์ลงใน Android ซอฟต์แวร์ออนบอร์ดช่วยให้ผู้ที่เพิ่งเริ่มต้นสามารถปรับเปลี่ยนบุคลิกของ Android ได้ อย่างไรก็ตาม ผู้ใช้ที่มีความสามารถทางสติปัญญาจะใช้เวลาน้อยลงในการทำตามบทแนะนำ</VREA_AndroidBehavioristStation.description>
+
+
+</LanguageData>

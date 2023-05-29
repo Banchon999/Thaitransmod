@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_AndroidStandSpot.label>จุดวางแอนดรอยด์</VREA_AndroidStandSpot.label>
+  <VREA_AndroidStandSpot.description>กำหนดจุดที่หุ่นยนต์ควรยืนเพื่อเพิ่มพื้นที่หน่วยความจำที่ใช้ไป</VREA_AndroidStandSpot.description>
+
+  <VREA_AndroidStand.label>แท่นวางแอนดรอยด์</VREA_AndroidStand.label>
+  <VREA_AndroidStand.description>อินเทอร์เฟซไร้สายที่ช่วยให้แอนดรอยด์ เพิ่มพื้นที่หน่วยความจำที่ใช้ไปได้อย่างรวดเร็ว มีประสิทธิภาพมากกว่าการทำงานในโหมดสลีป เนื่องจากสแตนด์ดำเนินการแปลงภายนอก</VREA_AndroidStand.description>
+
+  <VREA_AndroidSleepMode.label>android (โหมดสลีป)</VREA_AndroidSleepMode.label>
+
+
+</LanguageData>
