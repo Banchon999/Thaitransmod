@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <advanced_naturalfuel_wind_turbine.label>advanced wind turbine</advanced_naturalfuel_wind_turbine.label>
+  <advanced_naturalfuel_wind_turbine.description>Build advanced wind turbines for higher electrical generation.</advanced_naturalfuel_wind_turbine.description>
+
+  <advanced_naturalfuel_solar_panels.label>advanced solar power</advanced_naturalfuel_solar_panels.label>
+  <advanced_naturalfuel_solar_panels.description>Build advanced solar panels for higher electrical generation.</advanced_naturalfuel_solar_panels.description>
+
+  <advanced_nofuel_watermill.label>adv. watermill generator</advanced_nofuel_watermill.label>
+  <advanced_nofuel_watermill.description>Build advanced watermill generators on rivers to generate a steady supply of higher power.</advanced_nofuel_watermill.description>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- adv nuclear -->
+
+  <ASRG.label>advanced stirling radioisotope generator</ASRG.label>
+  <ASRG.description>Produces 2500 Wd using refuellable uranium heat source attached to an advanced stirling engine. Will slowly heat up rooms it is placed in.</ASRG.description>
+  <ASRG_Blueprint.label>advanced stirling radioisotope generator (blueprint)</ASRG_Blueprint.label>
+  <ASRG_Frame.label>advanced stirling radioisotope generator (building)</ASRG_Frame.label>
+  <ASRG_Frame.description>Produces 2500 Wd using refuellable uranium heat source attached to an advanced stirling engine. Will slowly heat up rooms it is placed in.</ASRG_Frame.description>
+
+  <large_ASRG.label>large advanced stirling radioisotope generator</large_ASRG.label>
+  <large_ASRG.description>Produces 9000 Wd using refuellable uranium heat source attached to an advanced stirling engine. Will heat up rooms twice as much as smaller version.</large_ASRG.description>
+  <large_ASRG_Blueprint.label>large advanced stirling radioisotope generator (blueprint)</large_ASRG_Blueprint.label>
+  <large_ASRG_Frame.label>large advanced stirling radioisotope generator (building)</large_ASRG_Frame.label>
+  <large_ASRG_Frame.description>Produces 9000 Wd using refuellable uranium heat source attached to an advanced stirling engine. Will heat up rooms twice as much as smaller version.</large_ASRG_Frame.description>
+
+  <sd_adv_powergen_adv_geothermal_generator.label>advanced geothermal generator</sd_adv_powergen_adv_geothermal_generator.label>
+  <sd_adv_powergen_adv_geothermal_generator.description>Produces electricity from geothermal steam geysers. Must be placed on a geyser.\n\nEnergy output: 7500 Wd</sd_adv_powergen_adv_geothermal_generator.description>
+  <sd_adv_powergen_adv_geothermal_generator_Blueprint.label>advanced geothermal generator (blueprint)</sd_adv_powergen_adv_geothermal_generator_Blueprint.label>
+  <sd_adv_powergen_adv_geothermal_generator_Frame.label>advanced geothermal generator (building)</sd_adv_powergen_adv_geothermal_generator_Frame.label>
+  <sd_adv_powergen_adv_geothermal_generator_Frame.description>Produces electricity from geothermal steam geysers. Must be placed on a geyser.\n\nEnergy output: 7500 Wd</sd_adv_powergen_adv_geothermal_generator_Frame.description>
+
+  <advanced_nuclear_generator.label>advanced nuclear generator</advanced_nuclear_generator.label>
+  <advanced_nuclear_generator.description>Produces electricity using an advanced stirling engine with refuellable uranium as the heat source. Plasteel is used as a rudimentary neutron reflector to superheat the fuel cask, improving power output and efficiency of the generator.\n\nEnergy Output: 26000 Wd</advanced_nuclear_generator.description>
+  <advanced_nuclear_generator_Blueprint.label>advanced nuclear generator (blueprint)</advanced_nuclear_generator_Blueprint.label>
+  <advanced_nuclear_generator_Frame.label>advanced nuclear generator (building)</advanced_nuclear_generator_Frame.label>
+  <advanced_nuclear_generator_Frame.description>Produces electricity using an advanced stirling engine with refuellable uranium as the heat source. Plasteel is used as a rudimentary neutron reflector to superheat the fuel cask, improving power output and efficiency of the generator.\n\nEnergy Output: 26000 Wd</advanced_nuclear_generator_Frame.description>
+
+
+</LanguageData>

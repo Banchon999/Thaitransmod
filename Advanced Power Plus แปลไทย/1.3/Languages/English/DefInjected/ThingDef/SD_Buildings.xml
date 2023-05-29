@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- adv wind -->
+
+  <sd_adv_powergen_adv_wind_turbine.label>advanced wind turbine</sd_adv_powergen_adv_wind_turbine.label>
+  <sd_adv_powergen_adv_wind_turbine.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.\n\nEnergy output: 6000 Wd at max</sd_adv_powergen_adv_wind_turbine.description>
+  <sd_adv_powergen_adv_wind_turbine_Blueprint.label>advanced wind turbine (blueprint)</sd_adv_powergen_adv_wind_turbine_Blueprint.label>
+  <sd_adv_powergen_adv_wind_turbine_Frame.label>advanced wind turbine (building)</sd_adv_powergen_adv_wind_turbine_Frame.label>
+  <sd_adv_powergen_adv_wind_turbine_Frame.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.\n\nEnergy output: 6000 Wd at max</sd_adv_powergen_adv_wind_turbine_Frame.description>
+
+
+  <!-- adv solar -->
+
+  <sd_adv_powergen_adv_solar_generator.label>advanced solar generator</sd_adv_powergen_adv_solar_generator.label>
+  <sd_adv_powergen_adv_solar_generator.description>Produces electricity from sunlight. Does not work in the dark.\n\nEnergy output: 3400 Wd at max</sd_adv_powergen_adv_solar_generator.description>
+  <sd_adv_powergen_adv_solar_generator_Blueprint.label>advanced solar generator (blueprint)</sd_adv_powergen_adv_solar_generator_Blueprint.label>
+  <sd_adv_powergen_adv_solar_generator_Frame.label>advanced solar generator (building)</sd_adv_powergen_adv_solar_generator_Frame.label>
+  <sd_adv_powergen_adv_solar_generator_Frame.description>Produces electricity from sunlight. Does not work in the dark.\n\nEnergy output: 3400 Wd at max</sd_adv_powergen_adv_solar_generator_Frame.description>
+
+
+  <!-- advanced watermill generator -->
+
+  <sd_adv_powergen_WatermillGenerator.label>advanced watermill generator</sd_adv_powergen_WatermillGenerator.label>
+  <sd_adv_powergen_WatermillGenerator.description>Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation.\n\nEnergy output: 2300 Wd</sd_adv_powergen_WatermillGenerator.description>
+  <sd_adv_powergen_WatermillGenerator_Blueprint.label>advanced watermill generator (blueprint)</sd_adv_powergen_WatermillGenerator_Blueprint.label>
+  <sd_adv_powergen_WatermillGenerator_Frame.label>advanced watermill generator (building)</sd_adv_powergen_WatermillGenerator_Frame.label>
+  <sd_adv_powergen_WatermillGenerator_Frame.description>Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation.\n\nEnergy output: 2300 Wd</sd_adv_powergen_WatermillGenerator_Frame.description>
+
+
+</LanguageData>

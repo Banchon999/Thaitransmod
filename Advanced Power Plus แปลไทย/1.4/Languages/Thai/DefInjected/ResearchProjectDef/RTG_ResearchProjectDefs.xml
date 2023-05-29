@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <fueled_ASRG.label>เชื้อเพลิง เอเอสอาจี</fueled_ASRG.label>
+  <fueled_ASRG.description>การสร้างเครื่องกำเนิดไอโซโทปกัมมันตภาพรังสีขั้นสูงของสเตอร์ลิงเป็นหนทางไปสู่การใช้พลังงานอย่างแน่นอน การสร้างพลังงานค่อนข้างมีประสิทธิภาพ แต่ในที่สุดยูเรเนียมก็จะหมดลง ดังนั้นจึงจำเป็นต้องมีการเติมยูเรเนียมอย่างต่อเนื่อง</fueled_ASRG.description>
+
+  <large_fueled_ASRG.label>เอเอสอาจี เชื้อเพลิงขนาดใหญ่</large_fueled_ASRG.label>
+  <large_fueled_ASRG.description>สร้างเครื่องกำเนิดไอโซโทปรังสีสเตอร์ลิงขั้นสูงขนาดใหญ่เพื่อการจ่ายพลังงานที่สูงขึ้น</large_fueled_ASRG.description>
+
+  <advanced_nofuel_geothermal_generator.label>เอวีดี พลังงานความร้อนใต้พิภพ</advanced_nofuel_geothermal_generator.label>
+  <advanced_nofuel_geothermal_generator.description>สร้างโรงไฟฟ้าพลังความร้อนใต้พิภพขั้นสูงบนไกเซอร์ไอน้ำ เพื่อพลังงานที่เยอะขึ้นอย่างต่อเนื่อง</advanced_nofuel_geothermal_generator.description>
+
+  <advanced_fueled_nuclear_generator.label>เอวีดี พลังงานนิวเคลียร์</advanced_fueled_nuclear_generator.label>
+  <advanced_fueled_nuclear_generator.description>สร้างเครื่องกำเนิดนิวเคลียร์ขั้นสูงและให้พลังงานเหลือใช้สูงสุด.</advanced_fueled_nuclear_generator.description>
+
+
+</LanguageData>

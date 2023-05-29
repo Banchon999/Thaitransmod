@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- adv nuclear -->
+
+  <ASRG.label>เครื่องกำเนิดไอโซโทปรังสีขั้นสูงของสเตอร์ลิง</ASRG.label>
+  <ASRG.description>ผลิตไฟฟ้าโดยใช้แหล่งความร้อนจากยูเรเนียมที่สามารถเติมเชื้อเพลิงได้ซึ่งติดอยู่กับเครื่องยนต์สเตอร์ลิงขั้นสูง ความร้อนจะเพิ่มขึ้นจากเครื่องเชี่ยนี้ ละวังเรื่องความร้อนด้วยนะจะ</ASRG.description>
+  <ASRG_Blueprint.label>เครื่องกำเนิดไอโซโทปรังสีขั้นสูงของสเตอร์ลิง (พิมพ์เขียว)</ASRG_Blueprint.label>
+  <ASRG_Frame.label>เครื่องกำเนิดไอโซโทปรังสีขั้นสูงแบบสเตอร์ลิง (ก่อสร้าง)</ASRG_Frame.label>
+  <ASRG_Frame.description>ผลิตไฟฟ้าโดยใช้แหล่งความร้อนจากยูเรเนียมที่สามารถเติมเชื้อเพลิงได้ซึ่งติดอยู่กับเครื่องยนต์สเตอร์ลิงขั้นสูง ความร้อนจะเพิ่มขึ้นจากเครื่องเชี่ยนี้ ละวังเรื่องความร้อนด้วยนะจะ</ASRG_Frame.description>
+
+  <large_ASRG.label>เครื่องกำเนิดไอโซโทปรังสีขั้นสูงขนาดใหญ่ขึ้นมากๆ</large_ASRG.label>
+  <large_ASRG.description>ผลิตไฟฟ้าโดยใช้แหล่งความร้อนจากยูเรเนียมที่สามารถเติมเชื้อเพลิงได้ซึ่งติดอยู่กับเครื่องยนต์สเตอร์ลิงขั้นสูง จะทำให้ห้องร้อนขึ้นสองเท่าจากรุ่นก่อน ไอสัสรอสิบนาที่แล้ว</large_ASRG.description>
+  <large_ASRG_Blueprint.label>เครื่องกำเนิดไอโซโทปรังสีขั้นสูงขนาดใหญ่ (พิมพ์เขียว)</large_ASRG_Blueprint.label>
+  <large_ASRG_Frame.label>เครื่องกำเนิดไอโซโทปรังสีขั้นสูงขนาดใหญ่ (ก่อสร้าง)</large_ASRG_Frame.label>
+  <large_ASRG_Frame.description>ผลิตไฟฟ้าโดยใช้แหล่งความร้อนจากยูเรเนียมที่สามารถเติมเชื้อเพลิงได้ซึ่งติดอยู่กับเครื่องยนต์สเตอร์ลิงขั้นสูง จะทำให้ห้องร้อนขึ้นสองเท่าจากรุ่นก่อน ไอสัสรอสิบนาที่แล้ว</large_ASRG_Frame.description>
+
+  <sd_adv_powergen_adv_geothermal_generator.label>เครื่องกำเนิดความร้อนใต้พิภพขั้นสูง</sd_adv_powergen_adv_geothermal_generator.label>
+  <sd_adv_powergen_adv_geothermal_generator.description>ผลิตไฟฟ้าจากน้ำพุร้อนไอน้ำใต้พิภพ จะต้องวางบนน้ำพุร้อน ต้องให้บอก</sd_adv_powergen_adv_geothermal_generator.description>
+  <sd_adv_powergen_adv_geothermal_generator_Blueprint.label>เครื่องกำเนิดความร้อนใต้พิภพขั้นสูง (พิมพ์เขียว)</sd_adv_powergen_adv_geothermal_generator_Blueprint.label>
+  <sd_adv_powergen_adv_geothermal_generator_Frame.label>เครื่องกำเนิดความร้อนใต้พิภพขั้นสูง (ก่อสร้าง)</sd_adv_powergen_adv_geothermal_generator_Frame.label>
+  <sd_adv_powergen_adv_geothermal_generator_Frame.description>ผลิตไฟฟ้าจากน้ำพุร้อนไอน้ำใต้พิภพ จะต้องวางบนน้ำพุร้อน ต้องให้บอก</sd_adv_powergen_adv_geothermal_generator_Frame.description>
+
+  <advanced_nuclear_generator.label>เครื่องกำเนิดนิวเคลียร์ขั้นสูง</advanced_nuclear_generator.label>
+  <advanced_nuclear_generator.description>ผลิตกระแสไฟฟ้าโดยใช้เครื่องยนต์สเตอร์ลิงขั้นสูงที่มียูเรเนียมที่สามารถเติมเชื้อเพลิงได้เป็นแหล่งความร้อน Plasteel ใช้เป็นตัวสะท้อนนิวตรอนพื้นฐานเพื่อทำให้ถังเชื้อเพลิงร้อนจัด ช่วยเพิ่มกำลังผลิตและประสิทธิภาพของเครื่องกำเนิดไฟฟ้า</advanced_nuclear_generator.description>
+  <advanced_nuclear_generator_Blueprint.label>เครื่องกำเนิดนิวเคลียร์ขั้นสูง (พิมพ์เขียว)</advanced_nuclear_generator_Blueprint.label>
+  <advanced_nuclear_generator_Frame.label>เครื่องกำเนิดนิวเคลียร์ขั้นสูง (ก่อสร้าง)</advanced_nuclear_generator_Frame.label>
+  <advanced_nuclear_generator_Frame.description>ผลิตกระแสไฟฟ้าโดยใช้เครื่องยนต์สเตอร์ลิงขั้นสูงที่มียูเรเนียมที่สามารถเติมเชื้อเพลิงได้เป็นแหล่งความร้อน Plasteel ใช้เป็นตัวสะท้อนนิวตรอนพื้นฐานเพื่อทำให้ถังเชื้อเพลิงร้อนจัด ช่วยเพิ่มกำลังผลิตและประสิทธิภาพของเครื่องกำเนิดไฟฟ้า</advanced_nuclear_generator_Frame.description>
+
+
+</LanguageData>

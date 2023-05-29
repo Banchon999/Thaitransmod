@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <fueled_ASRG.label>fueled ASRG</fueled_ASRG.label>
+  <fueled_ASRG.description>Building Advanced Stirling Radioisotope Generator is surely the way to go when it comes to power generation. Quite efficient energy generation, but eventually the uranium will deplete, so a constant replenishment of the uranium casket is required.</fueled_ASRG.description>
+
+  <large_fueled_ASRG.label>large fueled ASRG</large_fueled_ASRG.label>
+  <large_fueled_ASRG.description>Build large Advanced Stirling Radioisotope Generator for higher supply of power.</large_fueled_ASRG.description>
+
+  <advanced_nofuel_geothermal_generator.label>adv. geothermal power</advanced_nofuel_geothermal_generator.label>
+  <advanced_nofuel_geothermal_generator.description>Build advanced geothermal power plants on top of steam geysers, for uninterrupted higher power.</advanced_nofuel_geothermal_generator.description>
+
+  <advanced_fueled_nuclear_generator.label>adv. nuclear power</advanced_fueled_nuclear_generator.label>
+  <advanced_fueled_nuclear_generator.description>Build a line of advanced nuclear generators and that provide the highest supply of power.</advanced_fueled_nuclear_generator.description>
+
+
+</LanguageData>

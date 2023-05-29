@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <advanced_naturalfuel_wind_turbine.label>กังหันลมขั้นสูงที่สูงมากๆๆ</advanced_naturalfuel_wind_turbine.label>
+  <advanced_naturalfuel_wind_turbine.description>สร้างกังหันลมขั้นสูงเพื่อการผลิตไฟฟ้าที่สูงขึ้นนนนนนน</advanced_naturalfuel_wind_turbine.description>
+
+  <advanced_naturalfuel_solar_panels.label>พลังงานแสงอาทิตย์ขั้นสูงที่ตู่ไม่มีปัญญาซื้อ</advanced_naturalfuel_solar_panels.label>
+  <advanced_naturalfuel_solar_panels.description>สร้างแผงโซลาเซลล์จากแสงอาทิตย์ขั้นสูงเพื่อการผลิตไฟฟ้าที่เยอะขึ้นประชาชนจะไม่ขาดไฟ</advanced_naturalfuel_solar_panels.description>
+
+  <advanced_nofuel_watermill.label>อดว เครื่องปั่นไฟจากแม่น้ำ</advanced_nofuel_watermill.label>
+  <advanced_nofuel_watermill.description>สร้างเครื่องกำเนิดไฟฟ้าขั้นสูงจากแม่น้ำลำทานเพื่อสร้างพลังงานที่เยอะกว่าเดิมจุ๊ฟๆ</advanced_nofuel_watermill.description>
+
+
+</LanguageData>

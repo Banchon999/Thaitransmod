@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- adv wind -->
+
+  <sd_adv_powergen_adv_wind_turbine.label>กังหันลมขั้นสูง</sd_adv_powergen_adv_wind_turbine.label>
+  <sd_adv_powergen_adv_wind_turbine.description>เครื่องกำเนิดไฟฟ้าพลังลม ต้องการพื้นที่โล่งขนาดใหญ่ทั้งด้านหน้าและด้านหลังเพื่อการไหลเวียนของอากาศที่ต่อเนื่อง</sd_adv_powergen_adv_wind_turbine.description>
+  <sd_adv_powergen_adv_wind_turbine_Blueprint.label>กังหันลมขั้นสูง (พิมพ์เขียว)</sd_adv_powergen_adv_wind_turbine_Blueprint.label>
+  <sd_adv_powergen_adv_wind_turbine_Frame.label>กังหันลมขั้นสูง (ก่อสร้าง)</sd_adv_powergen_adv_wind_turbine_Frame.label>
+  <sd_adv_powergen_adv_wind_turbine_Frame.description>เครื่องกำเนิดไฟฟ้าพลังลม ต้องการพื้นที่โล่งขนาดใหญ่ทั้งด้านหน้าและด้านหลังเพื่อการไหลเวียนของอากาศที่ต่อเนื่อง</sd_adv_powergen_adv_wind_turbine_Frame.description>
+
+
+  <!-- adv solar -->
+
+  <sd_adv_powergen_adv_solar_generator.label>เครื่องกำเนิดพลังงานแสงอาทิตย์ขั้นสูง</sd_adv_powergen_adv_solar_generator.label>
+  <sd_adv_powergen_adv_solar_generator.description>ผลิตไฟฟ้าจากแสงอาทิตย์ ไม่ทำงานในที่มืด (ไม่บอกไม่รู้เลยนะเนี่ย)</sd_adv_powergen_adv_solar_generator.description>
+  <sd_adv_powergen_adv_solar_generator_Blueprint.label>เครื่องกำเนิดพลังงานแสงอาทิตย์ขั้นสูง (พิมพ์เขียว)</sd_adv_powergen_adv_solar_generator_Blueprint.label>
+  <sd_adv_powergen_adv_solar_generator_Frame.label>เครื่องกำเนิดพลังงานแสงอาทิตย์ขั้นสูง (ก่อสร้าง)</sd_adv_powergen_adv_solar_generator_Frame.label>
+  <sd_adv_powergen_adv_solar_generator_Frame.description>ผลิตไฟฟ้าจากแสงอาทิตย์ ไม่ทำงานในที่มืด (ไม่บอกไม่รู้เลยนะเนี่ย)</sd_adv_powergen_adv_solar_generator_Frame.description>
+
+
+  <!-- advanced watermill generator -->
+
+  <sd_adv_powergen_WatermillGenerator.label>เครื่องปั่นไฟฟ้าจากน้ำขั้นสูง</sd_adv_powergen_WatermillGenerator.label>
+  <sd_adv_powergen_WatermillGenerator.description>ผลิตไฟฟ้าจากแม่น้ำ ต้องวางล้อในน้ำที่กำลังใหลหลาก หากวางใกล้กันเกินไป จะก่อความปั่นป่วนเกิดขึ้นและจะรบการผลิตไฟฟ้า</sd_adv_powergen_WatermillGenerator.description>
+  <sd_adv_powergen_WatermillGenerator_Blueprint.label>เครื่องปั่นไฟฟ้าจากน้ำขั้นสูง (พิมพ์เขียว)</sd_adv_powergen_WatermillGenerator_Blueprint.label>
+  <sd_adv_powergen_WatermillGenerator_Frame.label>เครื่องปั่นไฟฟ้าจากน้ำขั้นสูง(ก่อสร้าง)</sd_adv_powergen_WatermillGenerator_Frame.label>
+  <sd_adv_powergen_WatermillGenerator_Frame.description>ผลิตไฟฟ้าจากแม่น้ำ ต้องวางล้อในน้ำที่กำลังใหลหลาก หากวางใกล้กันเกินไป จะก่อความปั่นป่วนเกิดขึ้นและจะรบการผลิตไฟฟ้า</sd_adv_powergen_WatermillGenerator_Frame.description>
+
+
+</LanguageData>
