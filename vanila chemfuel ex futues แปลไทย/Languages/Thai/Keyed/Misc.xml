@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCHE_ExtractChemfuel>สกัด 150 เคมีเชื้อเพลิง</VCHE_ExtractChemfuel>
+  <VCHE_ExtractChemfuelDesc>สกัด 150 เคมีเชื้อเพลิงออกจากถัง เบี้ยจะมาสกัดมัน</VCHE_ExtractChemfuelDesc>
+
+  <VCHE_ExtractDeepchem>แยก Deepchem 150 รายการ</VCHE_ExtractDeepchem>
+  <VCHE_ExtractDeepchemDesc>แยก Deepchem 150 รายการออกจากถัง เบี้ยจะมาสกัดมัน</VCHE_ExtractDeepchemDesc>
+
+  <VCHE_CantRefine>ไม่สามารถปรับแต่งได้: ถังเต็มแล้ว</VCHE_CantRefine>
+  <VCHE_CantPump>สูบไม่ได้: ถังเต็มแล้ว</VCHE_CantPump>
+
+  <VCHE_CantPlaceHere>แจ็คปั๊ม Deepchem สามารถวางบนเงินฝาก Deepchem เท่านั้น ใช้เครื่องสแกนเจาะพื้นเพื่อค้นหาเงินฝาก</VCHE_CantPlaceHere>
+
+  <VCHE_ChemValve>เปิด/ปิดการไหลของเชื้อเพลิงเคมี</VCHE_ChemValve>
+  <VCHE_ChemValveDesc>เปิด/ปิดการไหลของเชื้อเพลิงเคมี เบี้ยจะมาเปิด/ปิดวาล์ว</VCHE_ChemValveDesc>
+
+  <VCHE_DeepChemValve>เปิด/ปิดการไหลของ deepchem</VCHE_DeepChemValve>
+  <VCHE_DeepChemValveDesc>เปิด/ปิดการไหลของ deepchem เบี้ยจะมาเปิด/ปิดวาล์ว</VCHE_DeepChemValveDesc>
+
+</LanguageData>

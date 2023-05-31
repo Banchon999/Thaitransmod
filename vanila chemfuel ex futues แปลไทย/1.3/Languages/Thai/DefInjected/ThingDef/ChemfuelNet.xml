@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCHE_ChemfuelPipe.label>ท่อเคมีเชื้อเพลิง</VCHE_ChemfuelPipe.label>
+  <VCHE_ChemfuelPipe.description>ท่อเหล็กที่ออกแบบมาเพื่อขนส่งเชื้อเพลิงเคมีที่ใช้งานได้จากโรงกลั่น เคมีใต้ดิน ไปยังถังเชื้อเพลิงเคมีเพื่อจัดเก็บหรือไปยังโครงสร้างที่ใช้เชื้อเพลิงเคมีมากเพื่อการเติมเชื้อเพลิงอัตโนมัติ</VCHE_ChemfuelPipe.description>
+  <VCHE_ChemfuelPipe_Blueprint.label>ท่อเคมีเชื้อเพลิง (พิมพ์เขียว)</VCHE_ChemfuelPipe_Blueprint.label>
+  <VCHE_ChemfuelPipe_Frame.label>ท่อเคมีเชื้อเพลิง (ก่อสร้าง)</VCHE_ChemfuelPipe_Frame.label>
+  <VCHE_ChemfuelPipe_Frame.description>ท่อเหล็กที่ออกแบบมาเพื่อขนส่งเชื้อเพลิงเคมีที่ใช้งานได้จากโรงกลั่น เคมีใต้ดิน ไปยังถังเชื้อเพลิงเคมีเพื่อจัดเก็บหรือไปยังโครงสร้างที่ใช้เชื้อเพลิงเคมีมากเพื่อการเติมเชื้อเพลิงอัตโนมัติ</VCHE_ChemfuelPipe_Frame.description>
+
+  <VCHE_UndergroundChemfuelPipe.label>ท่อเคมีเชื้อเพลิงใต้ดิน</VCHE_UndergroundChemfuelPipe.label>
+  <VCHE_UndergroundChemfuelPipe.description>ท่อเหล็กใต้ดินที่ออกแบบมาเพื่อขนส่งเชื้อเพลิงเคมีที่ใช้งานได้จากโรงกลั่น เคมีใต้ดิน ไปยังถังเชื้อเพลิงเคมีเพื่อจัดเก็บหรือไปยังโครงสร้างที่ใช้เชื้อเพลิงเคมีเพื่อการเติมอัตโนมัติ</VCHE_UndergroundChemfuelPipe.description>
+  <VCHE_UndergroundChemfuelPipe_Blueprint.label>ท่อเคมีเชื้อเพลิงใต้ดิน (พิมพ์เขียว)</VCHE_UndergroundChemfuelPipe_Blueprint.label>
+  <VCHE_UndergroundChemfuelPipe_Frame.label>ท่อเคมีเชื้อเพลิงใต้ดิน (ก่อสร้าง)</VCHE_UndergroundChemfuelPipe_Frame.label>
+  <VCHE_UndergroundChemfuelPipe_Frame.description>ท่อเหล็กใต้ดินที่ออกแบบมาเพื่อขนส่งเชื้อเพลิงเคมีที่ใช้งานได้จากโรงกลั่น เคมีใต้ดิน ไปยังถังเชื้อเพลิงเคมีเพื่อจัดเก็บหรือไปยังโครงสร้างที่ใช้เชื้อเพลิงเคมีมากเพื่อการเติมอัตโนมัติ</VCHE_UndergroundChemfuelPipe_Frame.description>
+
+  <VCHE_ChemfuelValve.label>วาล์วเคมีเชื้อเพลิง</VCHE_ChemfuelValve.label>
+  <VCHE_ChemfuelValve.description>เปิด/ปิดการไหลของเคมีเชื้อเพลิง</VCHE_ChemfuelValve.description>
+  <VCHE_ChemfuelValve_Blueprint.label>วาล์วเคมีเชื้อเพลิง (พิมพ์เขียว)</VCHE_ChemfuelValve_Blueprint.label>
+  <VCHE_ChemfuelValve_Frame.label>วาล์วเคมีเชื้อเพลิง (ก่อสร้าง)</VCHE_ChemfuelValve_Frame.label>
+  <VCHE_ChemfuelValve_Frame.description>เปิด/ปิดการไหลของเชื้อเพลิงเคมี</VCHE_ChemfuelValve_Frame.description>
+
+  <PS_ChemfuelTank.label>ถังเคมีเชื้อเพลิง</PS_ChemfuelTank.label>
+  <PS_ChemfuelTank.description>ถังเก็บของเหลวทางอุตสาหกรรมสำหรับจัดเก็บเชื้อเพลิงเคมีที่ส่งผ่านเครือข่ายท่อเคมีเชื้อเพลิง สามารถกำหนดให้ถังสูบฉีดสำหรับเชื้อเพลิงเคมีที่ใช้งานได้ตามต้องการ หากได้รับความเสียหายเพียงเล็กน้อย ควันที่พุ่งออกมาจะสร้างลูกไฟก๊าซอย่างรวดเร็ว ขนาดของการระเบิดที่เกิดขึ้นจะขึ้นอยู่กับปริมาณที่เก็บไว้ภายใน</PS_ChemfuelTank.description>
+  <PS_ChemfuelTank_Blueprint.label>ถังเคมีเชื้อเพลิง (พิมพ์เขียว)</PS_ChemfuelTank_Blueprint.label>
+  <PS_ChemfuelTank_Frame.label>ถังเคมีเชื้อเพลิง (ก่อสร้าง)</PS_ChemfuelTank_Frame.label>
+  <PS_ChemfuelTank_Frame.description>ถังเก็บของเหลวทางอุตสาหกรรมสำหรับจัดเก็บเชื้อเพลิงเคมีที่ส่งผ่านเครือข่ายท่อเคมีเชื้อเพลิง สามารถกำหนดให้ถังสูบฉีดสำหรับเชื้อเพลิงเคมีที่ใช้งานได้ตามต้องการ หากได้รับความเสียหายเพียงเล็กน้อย ควันที่พุ่งออกมาจะสร้างลูกไฟก๊าซอย่างรวดเร็ว ขนาดของการระเบิดที่เกิดขึ้นจะขึ้นอยู่กับปริมาณที่เก็บไว้ภายใน</PS_ChemfuelTank_Frame.description>
+
+  <VCHE_ChemfuelTap.label>แทปเคมีเชื้อเพลิง</VCHE_ChemfuelTap.label>
+  <VCHE_ChemfuelTap.description>อ่างเก็บแบบถังเก็บเชื้อเพลิงเคมีที่จ่ายออกจากถังเป็นระยะๆ เพื่อใช้ในภายหลัง</VCHE_ChemfuelTap.description>
+  <VCHE_ChemfuelTap_Blueprint.label>ก๊อกเคมีเชื้อเพลิง (พิมพ์เขียว)</VCHE_ChemfuelTap_Blueprint.label>
+  <VCHE_ChemfuelTap_Blueprint_Install.label>ก๊อกเชื้อเพลิง (พิมพ์เขียว)</VCHE_ChemfuelTap_Blueprint_Install.label>
+  <VCHE_ChemfuelTap_Frame.label>ก๊อกเคมีเชื้อเพลิง (ก่อสร้าง)</VCHE_ChemfuelTap_Frame.label>
+  <VCHE_ChemfuelTap_Frame.description>อ่างเก็บแบบถังมีไว้สำหรับเก็บเชื้อเพลิงเคมีที่จ่ายออกจากถังเป็นระยะๆ เพื่อใช้ในภายหลัง</VCHE_ChemfuelTap_Frame.description>
+
+  <VCHE_ChemfuelDrain.label>ท่อระบายสารเคมี</VCHE_ChemfuelDrain.label>
+  <VCHE_ChemfuelDrain.description>อ่างเก็บแบบถังใส่เชื้อเพลิงเคมีเข้าสู่เครือข่าย เติมถังที่เชื่อมต่อ</VCHE_ChemfuelDrain.description>
+  <VCHE_ChemfuelDrain_Blueprint.label>ท่อระบายสารเคมี (พิมพ์เขียว)</VCHE_ChemfuelDrain_Blueprint.label>
+  <VCHE_ChemfuelDrain_Blueprint_Install.label>ท่อระบายสารเคมี (พิมพ์เขียว)</VCHE_ChemfuelDrain_Blueprint_Install.label>
+  <VCHE_ChemfuelDrain_Frame.label>ท่อระบายสารเคมี (ก่อสร้าง)</VCHE_ChemfuelDrain_Frame.label>
+  <VCHE_ChemfuelDrain_Frame.description>อ่างเก็บแบบถังใส่เชื้อเพลิงเคมีเข้าสู่เครือข่ายเพื่อเติมถังที่เชื่อมต่อ</VCHE_ChemfuelDrain_Frame.description>
+
+
+</LanguageData>

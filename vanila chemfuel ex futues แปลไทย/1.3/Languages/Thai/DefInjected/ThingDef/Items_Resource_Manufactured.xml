@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Deepchem -->
+
+  <VCHE_Deepchem.label>เคมีใต้ดิน</VCHE_Deepchem.label>
+  <VCHE_Deepchem.description>กากตะกอนสารเคมีเหลวที่ระเหยง่าย ซึ่งสกัดจากโพรงใต้ดินลึก มันหนาเกินไปที่จะใช้เป็นเชื้อเพลิงเครื่องยนต์และจรวด หรือแปลงเป็นเชื้อเพลิงขับเคลื่อนสำหรับขีปนาวุธ แต่สามารถปรับปรุงให้เป็นเชื้อเพลิงเคมีมาตรฐานได้</VCHE_Deepchem.description>
+
+
+</LanguageData>

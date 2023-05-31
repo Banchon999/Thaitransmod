@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCHE_DeepchemPipe.label>ท่อ เคมีใต้ดิน</VCHE_DeepchemPipe.label>
+  <VCHE_DeepchemPipe.description>ท่อเหล็กหนาสำหรับขนส่งกากตะกอนที่เรียกว่าเคมีใต้ดิน จากเครื่องสูบน้ำไปยังโรงกลั่นหรือถังเก็บเคมีใต้ดิน</VCHE_DeepchemPipe.description>
+  <VCHE_DeepchemPipe_Blueprint.label>ท่อเคมีใต้ดิน (พิมพ์เขียว)</VCHE_DeepchemPipe_Blueprint.label>
+  <VCHE_DeepchemPipe_Frame.label>ท่อเคมีใต้ดิน (ก่อสร้าง)</VCHE_DeepchemPipe_Frame.label>
+  <VCHE_DeepchemPipe_Frame.description>ท่อเหล็กหนาสำหรับขนส่งกากตะกอนที่เรียกว่า เคมีใต้ดิน จากแม่แรงปั๊มไปยังโรงกลั่นหรือถังเก็บเคมีใต้ดิน</VCHE_DeepchemPipe_Frame.description>
+
+  <VCHE_UndergroundDeepchemPipe.label>ท่อเคมีใต้ดิน</VCHE_UndergroundDeepchemPipe.label>
+  <VCHE_UndergroundDeepchemPipe.description>ท่อเหล็กหนักใต้ดินสำหรับขนส่งกากตะกอนที่เรียกว่าเคมีใต้ดิน จากแม่แรงสูบน้ำไปยังโรงกลั่นหรือถังเคมีใต้ดิน สำหรับจัดเก็บ</VCHE_UndergroundDeepchemPipe.description>
+  <VCHE_UndergroundDeepchemPipe_Blueprint.label>ท่อเคมีใต้ดิน (พิมพ์เขียว)</VCHE_UndergroundDeepchemPipe_Blueprint.label>
+  <VCHE_UndergroundDeepchemPipe_Frame.label>ท่อเคมีใต้ดิน (ก่อสร้าง)</VCHE_UndergroundDeepchemPipe_Frame.label>
+  <VCHE_UndergroundDeepchemPipe_Frame.description>ท่อเหล็กหนักใต้ดินสำหรับขนส่งกากตะกอนที่เรียกว่าเคมีใต้ดิน จากเครื่องสูบน้ำไปยังโรงกลั่นหรือถังเคมีใต้ดิน สำหรับจัดเก็บ</VCHE_UndergroundDeepchemPipe_Frame.description>
+
+  <VCHE_DeepchemValve.label>วาล์วลึกเคมีใต้ดิน</VCHE_DeepchemValve.label>
+  <VCHE_DeepchemValve.description>เปิด/ปิดการไหลเคมีใต้ดิน</VCHE_DeepchemValve.description>
+  <VCHE_DeepchemValve_Blueprint.label>วาล์วเคมีใต้ดิน (พิมพ์เขียว)</VCHE_DeepchemValve_Blueprint.label>
+  <VCHE_DeepchemValve_Frame.label>วาล์วเคมีใต้ดิน (ก่อสร้าง)</VCHE_DeepchemValve_Frame.label>
+  <VCHE_DeepchemValve_Frame.description>เปิด/ปิด การใหลเคมีใต้ดิน</VCHE_DeepchemValve_Frame.description>
+
+  <PS_DeepchemTank.label>ถังเคมีใต้ดิน</PS_DeepchemTank.label>
+  <PS_DeepchemTank.description>ถังเก็บกากตะกอนอุตสาหกรรมหนักสำหรับจัดเก็บเคมีใต้ดิน ที่ส่งผ่านเครือข่ายท่อเคมีใต้ดิน สามารถกำหนดถังให้สูบฉีดได้ตามต้องการ หากได้รับความเสียหายเพียงเล็กน้อย ควันที่พุ่งออกมาจะสร้างลูกไฟก๊าซอย่างรวดเร็ว ขนาดของการระเบิดที่เกิดขึ้นจะขึ้นอยู่กับปริมาณที่เก็บไว้ภายใน</PS_DeepchemTank.description>
+  <PS_DeepchemTank_Blueprint.label>ถังเคมีใต้ดิน (พิมพ์เขียว)</PS_DeepchemTank_Blueprint.label>
+  <PS_DeepchemTank_Frame.label>ถังเคมีใต้ดิน (ก่อสร้าง)</PS_DeepchemTank_Frame.label>
+  <PS_DeepchemTank_Frame.description>ถังเก็บกากตะกอนอุตสาหกรรมหนักสำหรับจัดเก็บเคมีใต้ดิน ที่ส่งผ่านเครือข่ายท่อเคมีใต้ดิน สามารถกำหนดถังให้สูบฉีดได้ตามต้องการ หากได้รับความเสียหายเพียงเล็กน้อย ควันที่พุ่งออกมาจะสร้างลูกไฟก๊าซอย่างรวดเร็ว ขนาดของการระเบิดที่เกิดขึ้นจะขึ้นอยู่กับปริมาณที่เก็บไว้ภายใน</PS_DeepchemTank_Frame.description>
+
+  <PS_DeepchemRefinery.label>โรงกลั่นเคมีใต้ดิน</PS_DeepchemRefinery.label>
+  <PS_DeepchemRefinery.description>เครื่องจักรที่ซับซ้อนที่สามารถกลั่นเคมีใต้ดิน ที่ส่งผ่านท่อเคมีใต้ดิน ให้เป็นเชื้อเพลิงเคมีเหลวที่ใช้งานได้ หากตรวจไม่พบเชื้อเพลิงจะถูกจ่ายลงในกระป๋องโดยอัตโนมัติ หากเอาต์พุตเชื่อมต่อกับถังหรือแตะผ่านท่อเคมีเชื้อเพลิง ผลิตภัณฑ์สำเร็จรูปจะถูกขนส่งในลักษณะดังกล่าวเพื่อจัดเก็บหรือจ่าย</PS_DeepchemRefinery.description>
+  <PS_DeepchemRefinery_Blueprint.label>โรงกลั่นเคมีใต้ดิน (พิมพ์เขียว)</PS_DeepchemRefinery_Blueprint.label>
+  <PS_DeepchemRefinery_Frame.label>โรงกลั่นเคมีใต้ดิน (ก่อสร้าง)</PS_DeepchemRefinery_Frame.label>
+  <PS_DeepchemRefinery_Frame.description>เครื่องจักรที่ซับซ้อนที่สามารถปรับแต่งเคมีใต้ดิน ที่ส่งผ่านท่อเคมีใต้ดิน ให้เป็นเชื้อเพลิงเคมีเหลวที่ใช้งานได้ หากตรวจไม่พบเชื้อเพลิงจะถูกจ่ายลงในกระป๋องโดยอัตโนมัติ หากเอาต์พุตเชื่อมต่อกับถังหรือแตะผ่านท่อเคมีเชื้อเพลิง ผลิตภัณฑ์สำเร็จรูปจะถูกขนส่งในลักษณะดังกล่าวเพื่อจัดเก็บหรือจ่าย</PS_DeepchemRefinery_Frame.description>
+
+  <VCHE_DeepchemPumpjack.label>แม่แรงสูบเคมีใต้ดิน</VCHE_DeepchemPumpjack.label>
+  <VCHE_DeepchemPumpjack.description>แท่นขุดเจาะเปลือกลึกสำหรับการแยกเคมีใต้ดิน จากส่วนลึกใต้พื้นผิว ใช้เครื่องสแกนเจาะดินเพื่อตรวจหาสิ่งสะสม จากนั้นเคมีใต้ดิน สามารถนำไปกลั่นเป็นเชื้อเพลิงเคมีที่ใช้งานได้ สามารถปรับตำแหน่งได้อย่างอิสระ</VCHE_DeepchemPumpjack.description>
+  <VCHE_DeepchemPumpjack_Blueprint.label>แม่แรงปั๊มเคมีใต้ดิน (พิมพ์เขียว)</VCHE_DeepchemPumpjack_Blueprint.label>
+  <VCHE_DeepchemPumpjack_Blueprint_Install.label>ปั๊มแจ็คเคมีใต้ดิน (พิมพ์เขียว)</VCHE_DeepchemPumpjack_Blueprint_Install.label>
+  <VCHE_DeepchemPumpjack_Frame.label>แม่แรงปั๊มเคมีใต้ดิน (ก่อสร้าง)</VCHE_DeepchemPumpjack_Frame.label>
+  <VCHE_DeepchemPumpjack_Frame.description>แท่นขุดเจาะเปลือกลึกสำหรับการแยกเคมีใต้ดิน จากส่วนลึกใต้พื้นผิว ใช้เครื่องสแกนเจาะดินเพื่อตรวจหาสิ่งสะสม จากนั้นเคมีใต้ดิน สามารถนำไปกลั่นเป็นเชื้อเพลิงเคมีที่ใช้งานได้ สามารถปรับตำแหน่งได้อย่างอิสระ</VCHE_DeepchemPumpjack_Frame.description>
+
+  <VCHE_DeepchemTap.label>แท็ปเคมีใต้ดิน</VCHE_DeepchemTap.label>
+  <VCHE_DeepchemTap.description>อ่างเก็บแบบถังมีไว้สำหรับเก็บเคมีใต้ดิน ที่จ่ายออกจากถังเป็นระยะเพื่อใช้ในภายหลัง</VCHE_DeepchemTap.description>
+  <VCHE_DeepchemTap_Blueprint.label>แท็ปเคมีใต้ดิน (พิมพ์เขียว)</VCHE_DeepchemTap_Blueprint.label>
+  <VCHE_DeepchemTap_Blueprint_Install.label>แตะเคมีใต้ดิน (พิมพ์เขียว)</VCHE_DeepchemTap_Blueprint_Install.label>
+  <VCHE_DeepchemTap_Frame.label>แท็ปเคมีใต้ดิน (ก่อสร้าง)</VCHE_DeepchemTap_Frame.label>
+  <VCHE_DeepchemTap_Frame.description>อ่างเก็บแบบถังมีไว้สำหรับเก็บเคมีใต้ดิน ที่จ่ายออกจากถังเป็นระยะเพื่อใช้ในภายหลัง</VCHE_DeepchemTap_Frame.description>
+
+  <VCHE_DeepchemDrain.label>ท่อระบายเคมีใต้ดิน</VCHE_DeepchemDrain.label>
+  <VCHE_DeepchemDrain.description>อ่างเก็บแบบถังใส่ไว้สำหรับป้อนเคมีใต้ดิน เข้าสู่เครือข่าย เติมถังที่เชื่อมต่อ</VCHE_DeepchemDrain.description>
+  <VCHE_DeepchemDrain_Blueprint.label>ท่อระบายเคมีใต้ดิน (พิมพ์เขียว)</VCHE_DeepchemDrain_Blueprint.label>
+  <VCHE_DeepchemDrain_Blueprint_Install.label>ท่อระบายเคมีใต้ดิน (พิมพ์เขียว)</VCHE_DeepchemDrain_Blueprint_Install.label>
+  <VCHE_DeepchemDrain_Frame.label>ท่อระบายเคมีใต้ดิน (ก่อสร้าง)</VCHE_DeepchemDrain_Frame.label>
+  <VCHE_DeepchemDrain_Frame.description>แอ่งจัดเก็บแบบถังมีไว้สำหรับป้อนเคมีใต้ดิน เข้าสู่เครือข่าย เติมเต็มถังที่เชื่อมต่อ</VCHE_DeepchemDrain_Frame.description>
+
+
+</LanguageData>
