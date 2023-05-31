@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Neuromod Stat Booster -->
+
+  <CONN_NeuromodBooster.label>บูสเตอร์นิวโรโมด</CONN_NeuromodBooster.label>
+  <CONN_NeuromodBooster.description>ตัวปรับแต่งเซลล์ประสาทเป็นอุปกรณ์ขนาดเล็กที่เจาะเข้าไปในดวงตาของคุณเพื่อทำการแมปโครงสร้างสมองที่มีอยู่ของคุณใหม่อย่างมีประสิทธิภาพ มักจะนำไปสู่การพัฒนาทักษะแต่ละอย่างทีละเล็กทีละน้อย</CONN_NeuromodBooster.description>
+  <CONN_NeuromodBooster.comps.0.useLabel>ใช้บูสเตอร์นิวโรโมด</CONN_NeuromodBooster.comps.0.useLabel>
+
+
+  <!-- ############## Brainwash ############## -->
+
+  <CONN_Brainwash.label>ล้างสมอง</CONN_Brainwash.label>
+  <CONN_Brainwash.description>อุปกรณ์ล้างสมองเพื่อลบหน่วยความจำ ลบลักษณะบุคลิกภาพที่ไม่เกี่ยวข้องกับเรื่องราวของคุณ</CONN_Brainwash.description>
+  <CONN_Brainwash.comps.0.useLabel>ใช้โปรแกรมล้างสมอง</CONN_Brainwash.comps.0.useLabel>
+
+
+  <!-- ############## Passion Giver ############## -->
+
+  <CONN_PassionGiver.label>ผู้ให้ความรัก</CONN_PassionGiver.label>
+  <CONN_PassionGiver.description>ฉีดนาโนบอตที่จะเปลี่ยนแปลงเซลล์สมองของคุณเพื่อกระตุ้นความหลงใหลแบบสุ่ม</CONN_PassionGiver.description>
+  <CONN_PassionGiver.comps.0.useLabel>ใช้ความหลงใหล</CONN_PassionGiver.comps.0.useLabel>
+
+
+  <!-- ############## Trait Giver ############## -->
+
+  <CONN_TraitGiver.label>ผู้ให้ลักษณะนิสัย</CONN_TraitGiver.label>
+  <CONN_TraitGiver.description>ฉีดนาโนบอตซึ่งจะเปลี่ยนแปลงเซลล์สมองของคุณเพื่อปลูกฝังลักษณะบุคลิกภาพแบบสุ่มให้คุณ</CONN_TraitGiver.description>
+  <CONN_TraitGiver.comps.0.useLabel>ใช้ลักษณะผู้ให้</CONN_TraitGiver.comps.0.useLabel>
+
+
+  <!-- ############## Mind Clearer ############## -->
+
+  <NeurotrainersClearer.label>จิตใจแจ่มใส</NeurotrainersClearer.label>
+  <NeurotrainersClearer.description>อุปกรณ์ล้างสมองเพื่อลบความจำระยะสั้น ส่งผลต่อทรูปัจจุบัน</NeurotrainersClearer.description>
+  <NeurotrainersClearer.comps.0.useLabel>ใช้จิตใจที่ชัดเจน</NeurotrainersClearer.comps.0.useLabel>
+
+
+  <!-- ############## Reconditioner ############## -->
+
+  <CONN_Reconditioner.label>รีคอนดิชั่นเนอร์</CONN_Reconditioner.label>
+  <CONN_Reconditioner.description>ฉีดนาโนบอตซึ่งจะเปลี่ยนแปลงเซลล์สมองของคุณเพื่อลบความทรงจำระยะยาวของคุณ Essentialy สร้างชีวิตใหม่เพื่อให้ผู้ใช้เชื่อมั่น</CONN_Reconditioner.description>
+  <CONN_Reconditioner.comps.0.useLabel>ใช้สารปรับสภาพ</CONN_Reconditioner.comps.0.useLabel>
+
+
+</LanguageData>

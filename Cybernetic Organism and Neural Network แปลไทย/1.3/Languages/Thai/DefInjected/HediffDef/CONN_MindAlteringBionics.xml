@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ############## Berserker Chip ############## -->
+
+  <CONN_hediff_BerserkerChip.label>ชิปบ้าบิ่น</CONN_hediff_BerserkerChip.label>
+  <CONN_hediff_BerserkerChip.description>สมองเทียมที่ทำให้อะดรีนาลีนพุ่งพล่านได้ ปรับปรุงความสามารถในการต่อสู้ระยะประชิดของผู้ใช้อย่างมากและระงับความเจ็บปวดได้อย่างมีประสิทธิภาพ แม้ว่าจะช่วยให้ผู้ใช้ทำประสบความสำเร็จได้มากขึ้น แต่ความเจ็บปวดกลับมีจุดประสงค์ เมื่อคุณไม่รู้สึก คุณจะบาดเจ็บได้ง่ายมาก</CONN_hediff_BerserkerChip.description>
+  <CONN_hediff_BerserkerChip.labelNoun>ชิปบ้าบิ่น</CONN_hediff_BerserkerChip.labelNoun>
+
+
+  <!-- ############## Mindtwist ############## -->
+
+  <CONN_hediff_Mindtwist.label>มายด์ทวิสต์</CONN_hediff_Mindtwist.label>
+  <CONN_hediff_Mindtwist.description>อุปกรณ์บิดความคิดช่วยขจัดความสำนึกผิดใดๆ ของผู้ป่วยออกไป มีปฏิสัมพันธ์โดยตรงกับสมองของผู้ใช้และปิดสะพานเชื่อมระหว่างพื้นที่สมองที่ไม่จำเป็น มันไม่ได้ลบความคิดในทันที เนื่องจากต้องใช้เวลาในการสร้างการเชื่อมต่อแบบซินแนปติก</CONN_hediff_Mindtwist.description>
+  <CONN_hediff_Mindtwist.labelNoun>การบิดความคิด</CONN_hediff_Mindtwist.labelNoun>
+
+
+  <!-- ############## Virtual Identity Muse ############## -->
+
+  <CONN_hediff_MuseChip.label>ชิปรำพึง</CONN_hediff_MuseChip.label>
+  <CONN_hediff_MuseChip.description>สมองเทียมที่มีตัวตนเสมือน 'EVE' ซึ่งนำทางรูปแบบชีวิตในเส้นทางของพวกเขา สามารถควบคุมฐานข้อมูลขนาดใหญ่ซึ่งกรองข้อมูลที่เกี่ยวข้องทั้งหมด เพื่อให้มั่นใจว่ามีตัวเลือกที่ดีที่สุด</CONN_hediff_MuseChip.description>
+  <CONN_hediff_MuseChip.labelNoun>ชิปรำพึง</CONN_hediff_MuseChip.labelNoun>
+
+
+  <!-- ############## Neuro Enhancer ############## -->
+
+  <CONN_hediff_NeuroEnhancer.label>ตัวเพิ่มประสิทธิภาพระบบประสาท</CONN_hediff_NeuroEnhancer.label>
+  <CONN_hediff_NeuroEnhancer.description>การปลูกถ่ายสมองที่ทำหน้าที่เป็นแพลตฟอร์มการเข้าถึงโดยตรงไปยังเฟรมเวิร์กระหว่างดวงดาว มันเชื่อมต่ออยู่เสมอ เมื่อพบเครือข่าย จะให้ข้อมูลแก่ผู้ใช้สำหรับสถานการณ์ใดก็ตาม คุณสามารถดูทีวีในสมองของคุณและเล่นผ่านความเป็นไปได้โดยมีเวลาเพียงพอ สร้างงานศิลปะในความคิดของคุณหรือพิมพ์เขียวที่สร้างขึ้นจากจินตนาการของคุณ</CONN_hediff_NeuroEnhancer.description>
+  <CONN_hediff_NeuroEnhancer.labelNoun>ตัวเพิ่มประสิทธิภาพระบบประสาท</CONN_hediff_NeuroEnhancer.labelNoun>
+
+
+  <!-- ############## Combat AI ############## -->
+
+  <CONN_hediff_CombatAI.label>ต่อสู้ด้วย AI</CONN_hediff_CombatAI.label>
+  <CONN_hediff_CombatAI.description>สมองเทียมซึ่งควบคุมความแม่นยำของผู้ใช้เล็กน้อยในระหว่างการต่อสู้ การออกแบบดั้งเดิมนี้สร้างขึ้นในระหว่างโครงการสงครามกาแล็กซี่โดยกลุ่มมนุษย์บางกลุ่มเพื่อสร้างสุดยอดทหาร พวกเขาพ่ายแพ้และถูกกำจัดให้สิ้นซาก แต่สิ่งประดิษฐ์บางอย่างของพวกเขายังคงอยู่จนถึงปัจจุบัน</CONN_hediff_CombatAI.description>
+  <CONN_hediff_CombatAI.labelNoun>ต่อสู้ด้วย AI</CONN_hediff_CombatAI.labelNoun>
+
+
+</LanguageData>

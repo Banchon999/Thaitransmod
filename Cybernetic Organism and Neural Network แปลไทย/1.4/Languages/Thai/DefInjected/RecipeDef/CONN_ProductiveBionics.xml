@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ############## Black Pearl ############## -->
+
+  <CONN_InstallBlackPearl.label>ติดตั้งไข่มุกสีดำ</CONN_InstallBlackPearl.label>
+  <CONN_InstallBlackPearl.description>ติดตั้งไข่มุกสีดำ</CONN_InstallBlackPearl.description>
+  <CONN_InstallBlackPearl.jobString>กำลังติดตั้งไข่มุกดำ</CONN_InstallBlackPearl.jobString>
+
+
+  <!-- ############## Hover Feet ############## -->
+
+  <CONN_InstallHoverFeet.label>ติดตั้งเท้าเลื่อน</CONN_InstallHoverFeet.label>
+  <CONN_InstallHoverFeet.description>ติดตั้งเท้าเลื่อน</CONN_InstallHoverFeet.description>
+  <CONN_InstallHoverFeet.jobString>กำลังติดตั้งเท้าเลื่อน</CONN_InstallHoverFeet.jobString>
+
+
+  <!-- ############## Greenthumb ############## -->
+
+  <CONN_InstallGreenthumb.label>ติดตั้งกรีนทูม</CONN_InstallGreenthumb.label>
+  <CONN_InstallGreenthumb.description>ติดตั้งกรีนทูม</CONN_InstallGreenthumb.description>
+  <CONN_InstallGreenthumb.jobString>กำลังติดตั้งกรีนทูม</CONN_InstallGreenthumb.jobString>
+
+
+  <!-- ############## Compression Jaw ############## -->
+
+  <CONN_InstallCompressionJaw.label>ติดตั้งขากรรไกรสายบีบ</CONN_InstallCompressionJaw.label>
+  <CONN_InstallCompressionJaw.description>ติดตั้งขากรรไกรสายบีบ</CONN_InstallCompressionJaw.description>
+  <CONN_InstallCompressionJaw.jobString>การติดตั้งขากรรไกรการสายบีบ</CONN_InstallCompressionJaw.jobString>
+
+
+  <!-- ############## Compression Stomach ############## -->
+
+  <CONN_InstallCompressionStomach.label>ติดตั้งกระเพาะสายบีบอัด</CONN_InstallCompressionStomach.label>
+  <CONN_InstallCompressionStomach.description>ติดตั้งกระเพาะสายบีบอัด</CONN_InstallCompressionStomach.description>
+  <CONN_InstallCompressionStomach.jobString>กำลังติดตั้งท้องสายบีบอัด</CONN_InstallCompressionStomach.jobString>
+
+
+  <!-- ############## Flashlight ############## -->
+
+  <CONN_InstallFlashLight.label>ติดตั้งไฟฉาย</CONN_InstallFlashLight.label>
+  <CONN_InstallFlashLight.description>ติดตั้งไฟฉาย</CONN_InstallFlashLight.description>
+  <CONN_InstallFlashLight.jobString>กำลังติดตั้งไฟฉาย</CONN_InstallFlashLight.jobString>
+
+  <CONN_RemoveFlashlight.label>นำไฟฉายออก</CONN_RemoveFlashlight.label>
+  <CONN_RemoveFlashlight.description>นำไฟฉายออก</CONN_RemoveFlashlight.description>
+  <CONN_RemoveFlashlight.jobString>กำลังถอดไฟฉาย</CONN_RemoveFlashlight.jobString>
+
+
+  <!-- ############## Musclewire ############## -->
+
+  <CONN_InstallMusclewire.label>ติดตั้งสายกล้ามเนื้อ</CONN_InstallMusclewire.label>
+  <CONN_InstallMusclewire.description>ติดตั้งสายกล้ามเนื้อ</CONN_InstallMusclewire.description>
+  <CONN_InstallMusclewire.jobString>การติดตั้งสายกล้ามเนื้อ</CONN_InstallMusclewire.jobString>
+
+  <CONN_RemoveMuscleWire.label>ลบสายกล้ามเนื้อ</CONN_RemoveMuscleWire.label>
+  <CONN_RemoveMuscleWire.description>ถอดสายกล้ามเนื้อออก</CONN_RemoveMuscleWire.description>
+  <CONN_RemoveMuscleWire.jobString>กำลังถอดสายกล้ามเนื้อ</CONN_RemoveMuscleWire.jobString>
+
+
+</LanguageData>

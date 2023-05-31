@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CONN_ShieldMultiplier.label>ตัวคูณพลังงานสูงสุดของโล่</CONN_ShieldMultiplier.label>
+  <CONN_ShieldMultiplier.description>ตัวคูณของพลังงานสูงสุดของโล่ใดๆ ที่สิ่งมีชีวิตนี้สวมใส่</CONN_ShieldMultiplier.description>
+
+  <CONN_ShieldRechargeRateMultiplier.label>ตัวคูณอัตราการชาร์จโล่</CONN_ShieldRechargeRateMultiplier.label>
+  <CONN_ShieldRechargeRateMultiplier.description>ตัวคูณของอัตราการเติมพลังของโล่ที่สวมใส่โดยสิ่งมีชีวิต</CONN_ShieldRechargeRateMultiplier.description>
+
+
+</LanguageData>

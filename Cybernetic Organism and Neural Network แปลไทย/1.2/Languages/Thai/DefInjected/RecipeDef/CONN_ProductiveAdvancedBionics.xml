@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ############## Energetic Lung ############## -->
+
+  <CONN_InstallEnergeticLung.label>ติดตั้งปอดพลังงาน</CONN_InstallEnergeticLung.label>
+  <CONN_InstallEnergeticLung.description>ติดตั้งปอดพลัง</CONN_InstallEnergeticLung.description>
+  <CONN_InstallEnergeticLung.jobString>กำลังติดตั้งปอดพลังงาน</CONN_InstallEnergeticLung.jobString>
+
+
+  <!-- ############## Energetic Kidney ############## -->
+
+  <CONN_InstallEnergeticKidney.label>ติดตั้งไตพลังงาน</CONN_InstallEnergeticKidney.label>
+  <CONN_InstallEnergeticKidney.description>ติดตั้งเอนเนอร์เจติกไต</CONN_InstallEnergeticKidney.description>
+  <CONN_InstallEnergeticKidney.jobString>กำลังติดตั้งไตพลังงาน</CONN_InstallEnergeticKidney.jobString>
+
+
+  <!-- ############## Energy Core ############## -->
+
+  <CONN_InstallEnergyCore.label>ติดตั้งแกนพลังงาน</CONN_InstallEnergyCore.label>
+  <CONN_InstallEnergyCore.description>ติดตั้งแกนพลังงาน</CONN_InstallEnergyCore.description>
+  <CONN_InstallEnergyCore.jobString>กำลังติดตั้งแกนพลังงาน</CONN_InstallEnergyCore.jobString>
+
+
+  <!-- ############## Autonomic Antibodies ############## -->
+
+  <CONN_InstallAutonomicViruskiller.label> ติดตั้งโปรแกรมฆ่าไวรัสอัตโนมัติ </CONN_InstallAutonomicViruskiller.label>
+  <CONN_InstallAutonomicViruskiller.description>ติดตั้งฆ่าไวรัสอัตโนมัต</CONN_InstallAutonomicViruskiller.description>
+  <CONN_InstallAutonomicViruskiller.jobString>การติดตั้งฆ่าไวรัสอัตโนมัต</CONN_InstallAutonomicViruskiller.jobString>
+
+
+  <!-- ############## Aurum ############## -->
+
+  <CONN_InstallAurum.label>ติดตั้งออรัม</CONN_InstallAurum.label>
+  <CONN_InstallAurum.description>ติดตั้งออรัม</CONN_InstallAurum.description>
+  <CONN_InstallAurum.jobString>กำลังติดตั้งออรัม</CONN_InstallAurum.jobString>
+
+
+</LanguageData>

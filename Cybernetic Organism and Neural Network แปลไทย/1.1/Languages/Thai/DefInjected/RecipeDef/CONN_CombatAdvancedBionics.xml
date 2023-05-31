@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ############## Robotic Eye ############## -->
+
+  <CONN_InstallIndependentEye.label>ติดตั้งตาหุ่นยนต์</CONN_InstallIndependentEye.label>
+  <CONN_InstallIndependentEye.description>ติดตั้งตาหุ่นยนต์</CONN_InstallIndependentEye.description>
+  <CONN_InstallIndependentEye.jobString>กำลังติดตั้งตาหุ่นยนต์</CONN_InstallIndependentEye.jobString>
+
+
+  <!-- ############## Energy Link ############## -->
+
+  <CONN_InstallEnergyLink.label>ติดตั้งลิงก์พลังงาน</CONN_InstallEnergyLink.label>
+  <CONN_InstallEnergyLink.description>ติดตั้งลิงค์พลังงาน</CONN_InstallEnergyLink.description>
+  <CONN_InstallEnergyLink.jobString>กำลังติดตั้งลิงก์พลังงาน</CONN_InstallEnergyLink.jobString>
+
+
+  <!-- ############## Outer Blade ############## -->
+
+  <CONN_InstallOuterBlade.label>ติดตั้งใบมีดด้านนอก</CONN_InstallOuterBlade.label>
+  <CONN_InstallOuterBlade.description>ติดตั้งใบมีดด้านนอก</CONN_InstallOuterBlade.description>
+  <CONN_InstallOuterBlade.jobString>กำลังติดตั้งใบมีดด้านนอก</CONN_InstallOuterBlade.jobString>
+
+
+  <!-- ############## Power Arm ############### -->
+
+  <CONN_InstallPowerArms.label>ติดตั้งพาวเวอร์อาร์ม</CONN_InstallPowerArms.label>
+  <CONN_InstallPowerArms.description>ติดตั้งพาวเวอร์อาร์ม</CONN_InstallPowerArms.description>
+  <CONN_InstallPowerArms.jobString>กำลังติดตั้งพาวเวอร์อาร์ม</CONN_InstallPowerArms.jobString>
+
+
+  <!-- ############## Shadowrunner ############## -->
+
+  <CONN_InstallShadowrunner.label>ติดตั้งชาโดว์รันเนอร์</CONN_InstallShadowrunner.label>
+  <CONN_InstallShadowrunner.description>ติดตั้งชาโดว์รันเนอร์</CONN_InstallShadowrunner.description>
+  <CONN_InstallShadowrunner.jobString>กำลังติดตั้งชาโดว์รันเนอร์</CONN_InstallShadowrunner.jobString>
+
+
+  <!-- ############## Exoskeleton Armor ############## -->
+
+  <CONN_InstallExoskeletonArmor.label>ติดตั้งชุดเกราะภายนอก</CONN_InstallExoskeletonArmor.label>
+  <CONN_InstallExoskeletonArmor.description>ติดตั้งชุดเกราะภายนอก</CONN_InstallExoskeletonArmor.description>
+  <CONN_InstallExoskeletonArmor.jobString>การติดตั้งชุดเกราะภายนอก</CONN_InstallExoskeletonArmor.jobString>
+
+  <CONN_RemoveExoskeletonArmor.label>ถอดชุดเกราะภายนอกออก</CONN_RemoveExoskeletonArmor.label>
+  <CONN_RemoveExoskeletonArmor.description>ถอดชุดเกราะภายนอกออก</CONN_RemoveExoskeletonArmor.description>
+  <CONN_RemoveExoskeletonArmor.jobString>การถอดเกราะภายนอกออก</CONN_RemoveExoskeletonArmor.jobString>
+
+
+  <!-- ############## Dermalplating ############## -->
+
+  <CONN_InstallDermalplating.label>ติดตั้งการชุบผิวโลหะ</CONN_InstallDermalplating.label>
+  <CONN_InstallDermalplating.description>ติดตั้งการชุบผิวโลหะ</CONN_InstallDermalplating.description>
+  <CONN_InstallDermalplating.jobString>การติดตั้งการชุบผิวโลหะ</CONN_InstallDermalplating.jobString>
+
+  <CONN_RemoveDermaplating.label>นำการชุบผิวออก</CONN_RemoveDermaplating.label>
+  <CONN_RemoveDermaplating.description>นำการชุบผิวออก</CONN_RemoveDermaplating.description>
+  <CONN_RemoveDermaplating.jobString>กำลังลอกผิวเคลือบออก</CONN_RemoveDermaplating.jobString>
+
+
+  <!-- ############## Lionheart ############## -->
+
+  <CONN_InstallLionheart.label>ติดตั้งหัวใจสิงโต</CONN_InstallLionheart.label>
+  <CONN_InstallLionheart.description>ติดตั้งหัวใจสิงโต.</CONN_InstallLionheart.description>
+  <CONN_InstallLionheart.jobString>กำลังติดตั้งหัวใจสิงโต.</CONN_InstallLionheart.jobString>
+
+
+</LanguageData>

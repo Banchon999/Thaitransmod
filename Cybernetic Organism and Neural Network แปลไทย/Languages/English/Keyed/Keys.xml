@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CONN.ToMuchTraits>{0} มี 3 ลักษณะอยู่แล้ว</CONN.ToMuchTraits>
+  <CONN.NoPossibleTraitToRemove>{0} ไม่มีคุณลักษณะใดๆ ที่จะลบ</CONN.NoPossibleTraitToRemove>
+
+  <CONN.SkillsLearned>{0} ได้รับ 2 ระดับสำหรับแต่ละทักษะ</CONN.SkillsLearned>
+  <CONN.NoSkillCanBeLearned>{0} ไม่จำเป็นต้องเรียนรู้ทักษะอีกต่อไป</CONN.NoSkillCanBeLearned>
+
+  <CONN.CantGetOtherPassion>{0} สามารถพัฒนาความหลงใหลได้อีกต่อไป</CONN.CantGetOtherPassion>
+  <CONN.GettingMinorPassion>{0} กำลังได้รับความชื่นชอบเล็กน้อยสำหรับ {1}</CONN.GettingMinorPassion>
+  <CONN.GettingMajorPassion>{0} กำลังได้รับความหลงใหลอย่างมากสำหรับ {1}</CONN.GettingMajorPassion>
+
+  <CONN.CantGetMoreTraits>{0} ไม่สามารถรับลักษณะเพิ่มเติมได้</CONN.CantGetMoreTraits>
+
+  <CONN.BerserkLabel>สลับบ้าดีเดือด</CONN.BerserkLabel>
+  <CONN.BerserkDesc>สลับสถานะจิตบ้าดีเดือด</CONN.BerserkDesc>
+
+  <CONN.Settings>Cybernetic Organism และ Neural Network</CONN.Settings>
+  <CONN.EnableMote>เปิดใช้งานไฟฉายและเลเซอร์ตรวจจับโม้ต</CONN.EnableMote>
+  <CONN.EnableMoteDraft>เปิดใช้การตรวจจับไฟฉายและเลเซอร์ในขณะที่ร่างเบี้ยเท่านั้น</CONN.EnableMoteDraft>
+  <CONN.MaxTraits>จำนวนคุณลักษณะสูงสุดที่ผู้ให้คุณลักษณะสามารถให้ได้</CONN.MaxTraits>
+
+</LanguageData>

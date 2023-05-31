@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CONN_ProductiveBionics.label>การผลิตที่ปรับปรุงไบโอนิค</CONN_ProductiveBionics.label>
+  <CONN_ProductiveBionics.description>เรียนรู้วิธีสร้างไบโอนิคที่ช่วยปรับปรุงประสิทธิภาพการทำงานและความเร็วในงานทั่วไปในชีวิต
+
+การผลิตไบโอนิกส์เหล่านี้จะต้องมีช่างประกอบมืออาชีพเป็นอย่างน้อยและแพทย์ผู้เชี่ยวชาญที่มีทักษะในการติดตั้ง.</CONN_ProductiveBionics.description>
+  <CONN_ProductiveAdvancedBionics.label>การผลิตขั้นสูงที่ปรับปรุงไบโอนิค</CONN_ProductiveAdvancedBionics.label>
+  <CONN_ProductiveAdvancedBionics.description>เรียนรู้วิธีสร้างไบโอนิคขั้นสูงที่ปรับปรุงผลผลิตของผู้จำนำและเร่งความเร็วในงานทั่วไป
+
+การสร้างไบโอนิคเหล่านี้จะต้องมีผู้สร้างระดับปรมาจารย์เป็นอย่างน้อยและแพทย์ผู้เชี่ยวชาญที่แข็งแกร่งจึงจะติดตั้งได้</CONN_ProductiveAdvancedBionics.description>
+
+  <CONN_CombatBionics.label>ต่อสู้กับการพัฒนาไบโอนิค</CONN_CombatBionics.label>
+  <CONN_CombatBionics.description>เรียนรู้วิธีสร้างไบโอนิคที่ปรับปรุงความสามารถในการต่อสู้ของชาวนิคม
+
+การผลิตไบโอนิคเหล่านี้จะต้องมีช่างประกอบมืออาชีพเป็นอย่างน้อยและต้องมีแพทย์มืออาชีพที่เชี่ยวชาญติดตั้งให้</CONN_CombatBionics.description>
+
+  <CONN_CombatAdvancedBionics.label>การต่อสู้ขั้นสูงที่ปรับปรุงไบโอนิค</CONN_CombatAdvancedBionics.label>
+  <CONN_CombatAdvancedBionics.description>เรียนรู้วิธีสร้างไบโอนิคขั้นสูงที่ปรับปรุงความสามารถในการต่อสู้ของชาวนิคม
+
+การสร้างไบโอนิคเหล่านี้จะต้องมีผู้สร้างระดับปรมาจารย์เป็นอย่างน้อยและแพทย์ผู้เชี่ยวชาญที่แข็งแกร่งจึงจะติดตั้งได้</CONN_CombatAdvancedBionics.description>
+
+  <CONN_MindAlteringBionics.label>ไบโอนิคที่เปลี่ยนความคิด</CONN_MindAlteringBionics.label>
+  <CONN_MindAlteringBionics.description>เรียนรู้วิธีสร้างไบโอนิคที่เปลี่ยนแปลงความคิดซึ่งปรับปรุงความสามารถของผู้จำนำ
+
+การสร้างไบโอนิคเหล่านี้จะต้องมีช่างฝีมือระดับปรมาจารย์ที่รู้จักในภูมิภาคเป็นอย่างน้อยและแพทย์ผู้ชำนาญการที่รู้จักในภูมิภาคจึงจะติดตั้งได้</CONN_MindAlteringBionics.description>
+
+
+</LanguageData>

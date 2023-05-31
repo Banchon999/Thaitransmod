@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ############## Berserker Chip ############## -->
+
+  <CONN_InstallBerserkerChip.label>ติดตั้งชิปบ้าบิ่น</CONN_InstallBerserkerChip.label>
+  <CONN_InstallBerserkerChip.description>ติดตั้งชิปบ้าบิ่น</CONN_InstallBerserkerChip.description>
+  <CONN_InstallBerserkerChip.jobString>กำลังติดตั้งชิปบ้าบิ่น</CONN_InstallBerserkerChip.jobString>
+
+  <CONN_RemoveBerserkerChip.label>นำชิปบ้าบิ่นออก</CONN_RemoveBerserkerChip.label>
+  <CONN_RemoveBerserkerChip.description>นำชิปบ้าบิ่นออก</CONN_RemoveBerserkerChip.description>
+  <CONN_RemoveBerserkerChip.jobString>กำลังลบชิปบ้าบิ่น</CONN_RemoveBerserkerChip.jobString>
+
+
+  <!-- ############## Mindtwist ############## -->
+
+  <CONN_InstallMindtwist.label>ติดตั้งมายด์ทวิสต์</CONN_InstallMindtwist.label>
+  <CONN_InstallMindtwist.description>ติดตั้งมายด์ทวิสต์</CONN_InstallMindtwist.description>
+  <CONN_InstallMindtwist.jobString>กำลังติดตั้งมายด์ทวิสต์</CONN_InstallMindtwist.jobString>
+
+  <CONN_RemoveMindTwist.label>ลบมายด์ทวิสต์</CONN_RemoveMindTwist.label>
+  <CONN_RemoveMindTwist.description>ลบมายด์ทวิสต์</CONN_RemoveMindTwist.description>
+  <CONN_RemoveMindTwist.jobString>กำลังลบมายด์ทวิสต์</CONN_RemoveMindTwist.jobString>
+
+
+  <!-- ############## Virtual Identity Muse ############## -->
+
+  <CONN_InstallMuseChip.label>ติดตั้งชิปรำพึง</CONN_InstallMuseChip.label>
+  <CONN_InstallMuseChip.description>ติดตั้งชิปรำพึง</CONN_InstallMuseChip.description>
+  <CONN_InstallMuseChip.jobString>กำลังติดตั้งชิปรำพึง</CONN_InstallMuseChip.jobString>
+
+  <CONN_RemoveMuseChip.label>นำชิปรำพึงออก</CONN_RemoveMuseChip.label>
+  <CONN_RemoveMuseChip.description>นำชิปรำพึงออก</CONN_RemoveMuseChip.description>
+  <CONN_RemoveMuseChip.jobString>กำลังลบชิปรำพึง</CONN_RemoveMuseChip.jobString>
+
+
+  <!-- ############## Neuro Enhancer ############## -->
+
+  <CONN_InstallNeuroEnhancer.label>ติดตั้งตัวเพิ่มประสิทธิภาพระบบประสาท</CONN_InstallNeuroEnhancer.label>
+  <CONN_InstallNeuroEnhancer.description>ติดตั้งเครื่องปรับปรุงระบบประสาท</CONN_InstallNeuroEnhancer.description>
+  <CONN_InstallNeuroEnhancer.jobString>กำลังติดตั้งเครื่องเพิ่มประสิทธิภาพของระบบประสาท</CONN_InstallNeuroEnhancer.jobString>
+
+  <CONN_RemoveNeuroEnchancer.label>ลบตัวเพิ่มประสิทธิภาพระบบประสาท</CONN_RemoveNeuroEnchancer.label>
+  <CONN_RemoveNeuroEnchancer.description>ลบตัวเพิ่มประสิทธิภาพระบบประสาท</CONN_RemoveNeuroEnchancer.description>
+  <CONN_RemoveNeuroEnchancer.jobString>กำลังลบตัวเพิ่มประสิทธิภาพระบบประสาท</CONN_RemoveNeuroEnchancer.jobString>
+
+
+  <!-- ############## Combat AI ############## -->
+
+  <CONN_InstallCombatAI.label>ติดตั้งต่อสู้ด้วย AI</CONN_InstallCombatAI.label>
+  <CONN_InstallCombatAI.description>ติดตั้งระบบต่อสู้ด้วย AI</CONN_InstallCombatAI.description>
+  <CONN_InstallCombatAI.jobString>การติดตั้งระบบต่อสู้ด้วย AI</CONN_InstallCombatAI.jobString>
+
+  <CONN_RemoveCombatAI.label>ลบการต่อสู้ด้วย AI</CONN_RemoveCombatAI.label>
+  <CONN_RemoveCombatAI.description>ลบการต่อสู้ด้วย AI</CONN_RemoveCombatAI.description>
+  <CONN_RemoveCombatAI.jobString>กำลังลบการต่อสู้ด้วย AI</CONN_RemoveCombatAI.jobString>
+
+
+</LanguageData>

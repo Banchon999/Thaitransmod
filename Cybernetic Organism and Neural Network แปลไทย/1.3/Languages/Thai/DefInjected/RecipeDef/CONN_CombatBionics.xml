@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ############## Zoom ############## -->
+
+  <CONN_InstallZoom.label>ติดตั้งซูม</CONN_InstallZoom.label>
+  <CONN_InstallZoom.description>ติดตั้งซูม</CONN_InstallZoom.description>
+  <CONN_InstallZoom.jobString>กำลังติดตั้งซูม</CONN_InstallZoom.jobString>
+
+
+  <!-- ############## Energy Fist ############## -->
+
+  <CONN_InstallEnergyFist.label>ติดตั้งหมัดพลังงาน</CONN_InstallEnergyFist.label>
+  <CONN_InstallEnergyFist.description>ติดตั้งหมัดพลังงาน</CONN_InstallEnergyFist.description>
+  <CONN_InstallEnergyFist.jobString>กำลังติดตั้งหมัดพลังงาน</CONN_InstallEnergyFist.jobString>
+
+
+  <!-- ############## Elastic Achilles ############## -->
+
+  <CONN_InstallElasticAchilles.label>ติดตั้งยางยืดเอ็นร้อยหวาย</CONN_InstallElasticAchilles.label>
+  <CONN_InstallElasticAchilles.description>ติดตั้งเอ็นร้อยหวายแบบยืดหยุ่น</CONN_InstallElasticAchilles.description>
+  <CONN_InstallElasticAchilles.jobString>การติดตั้งเอ็นร้อยหวายแบบยืดหยุ่น</CONN_InstallElasticAchilles.jobString>
+
+
+  <!-- ############## Cyclops Visor ############## -->
+
+  <CONN_InstallCyclopsVisor.label>ติดตั้งที่ตาไซคลอปส์</CONN_InstallCyclopsVisor.label>
+  <CONN_InstallCyclopsVisor.description>ติดตั้งตาไซคลอปส์</CONN_InstallCyclopsVisor.description>
+  <CONN_InstallCyclopsVisor.jobString>กำลังติดตั้งตาไซคลอปส์</CONN_InstallCyclopsVisor.jobString>
+
+
+  <!-- ############## Laser Detection ############## -->
+
+  <CONN_InstallLaserDetection.label>ติดตั้งการตรวจจับด้วยเลเซอร์</CONN_InstallLaserDetection.label>
+  <CONN_InstallLaserDetection.description>ติดตั้งการตรวจจับด้วยเลเซอร์</CONN_InstallLaserDetection.description>
+  <CONN_InstallLaserDetection.jobString>กำลังติดตั้งการตรวจจับด้วยเลเซอร์</CONN_InstallLaserDetection.jobString>
+
+  <CONN_RemoveLaserDetection.label>นำอุปกรณ์ตรวจจับด้วยเลเซอร์ออก</CONN_RemoveLaserDetection.label>
+  <CONN_RemoveLaserDetection.description>ถอดอุปกรณ์ตรวจจับด้วยเลเซอร์</CONN_RemoveLaserDetection.description>
+  <CONN_RemoveLaserDetection.jobString>กำลังถอดอุปกรณ์ตรวจจับด้วยเลเซอร์</CONN_RemoveLaserDetection.jobString>
+
+
+  <!-- ############## Sensoric Earside  ############## -->
+
+  <CONN_InstallSensoricEarside.label>ติดตั้งหูฟังเซนเซอร์</CONN_InstallSensoricEarside.label>
+  <CONN_InstallSensoricEarside.description>ติดตั้งหูฟังเซนเซอร์</CONN_InstallSensoricEarside.description>
+  <CONN_InstallSensoricEarside.jobString>กำลังติดตั้งหูฟังเซนเซอร์</CONN_InstallSensoricEarside.jobString>
+
+
+</LanguageData>

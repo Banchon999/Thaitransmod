@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- aurean cornea and synchronizer hediff. Hediff ONLY for compatibility with users that used the older version 
+        This bionics can't be found/crafted anymore -->
+
+  <Trunken_hediff_AureanCornea.label>aurean cornea</Trunken_hediff_AureanCornea.label>
+  <Trunken_hediff_AureanCornea.description>A mounted contact lens in glimmering gold colors with sun shield and dimmer.</Trunken_hediff_AureanCornea.description>
+  <Trunken_hediff_AureanCornea.labelNoun>a golden eye</Trunken_hediff_AureanCornea.labelNoun>
+
+  <Trunken_hediff_Synchronizer.label>synchronizer</Trunken_hediff_Synchronizer.label>
+  <Trunken_hediff_Synchronizer.description>A tactical military coordination computer with a digital screen implanted right in the wrist.</Trunken_hediff_Synchronizer.description>
+  <Trunken_hediff_Synchronizer.labelNoun>a synchronizer</Trunken_hediff_Synchronizer.labelNoun>
+
+
+</LanguageData>

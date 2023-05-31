@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ############## Black Pearl ############## -->
+
+  <CONN_hediff_BlackPearl.label>ไข่มุกดำ</CONN_hediff_BlackPearl.label>
+  <CONN_hediff_BlackPearl.description>ตาเทียมที่ได้รับการปรับปรุงพร้อมองค์ประกอบที่เป็นเอกลักษณ์และทริกเกอร์ด้านข้างทั้งหมด มันนำเสนอคุณสมบัติที่หลากหลาย แต่ที่โดดเด่นที่สุดคือการมองเห็นตอนกลางคืน ไข่มุกดำเคยเป็นสัญลักษณ์สำคัญระหว่างทหาร แกนหลักนั้นเป็นโมดูลลูกตาของ Android ซึ่งนำออกจากร่างกายของกลไกโดยนาวิกโยธินอัลฟ่า พวกเขาถูกปฏิบัติเหมือนเป็นของเสียจากสงครามในยุคมืดของมนุษยชาติ ชื่อนี้เกี่ยวข้องกับสีดำสนิทซึ่งทำให้ไม่สามารถอ่านความคิดสำหรับลำดับการวิเคราะห์ได้ ตอนนี้คนงานยังใช้มันด้วย เนื่องจากส่งผลต่อสายตาอย่างมาก</CONN_hediff_BlackPearl.description>
+  <CONN_hediff_BlackPearl.labelNoun>ตาดำ</CONN_hediff_BlackPearl.labelNoun>
+
+
+  <!-- ############## Hover Feet ############## -->
+
+  <CONN_hediff_HoverFeet.label>เท้าเลื่อน</CONN_hediff_HoverFeet.label>
+  <CONN_hediff_HoverFeet.description>โฮเวอร์บอร์ดแบบยึดเกาะได้เองซึ่งติดตั้งบนรางอะแดปเตอร์ปลูกถ่ายที่เชื่อมโยงโดยตรงกับกระดูกด้านในเท้า กาลครั้งหนึ่งนานมาแล้วแก๊งวัยรุ่นใช้สิ่งนี้เพื่อหลบหนีหลังจากก่ออาชญากรรมใน Urbworlds ช่วยเพิ่มความเร็วในการเคลื่อนที่โดยการร่อน</CONN_hediff_HoverFeet.description>
+  <CONN_hediff_HoverFeet.labelNoun>เท้าเลื่อน</CONN_hediff_HoverFeet.labelNoun>
+
+
+  <!-- ############## Greenthumb ############## -->
+
+  <CONN_hediff_Greenthumb.label>กรีนทูม</CONN_hediff_Greenthumb.label>
+  <CONN_hediff_Greenthumb.description>โมดูลไบโอนิคที่สร้างขึ้นโดยเฉพาะสำหรับชาวไร่ที่ต้องการตั้งรกรากอย่างรวดเร็ว มันแทนที่นิ้วหัวแม่มือเป็นอุปกรณ์นิ้วที่กำหนดค่าและใช้งานได้เต็มรูปแบบ ทุกอย่างที่อยู่ในฝ่ามือจะถูกสแกนด้วยนาโนคอมพิวเตอร์เพื่อการเรียนรู้ ซึ่งมีข้อมูลเกี่ยวกับพืชและสัตว์ประเภทต่างๆ เล็บจะเรืองแสงเป็นสีเขียวระหว่างการสแกนข้อมูลและเวลาโหลด</CONN_hediff_Greenthumb.description>
+  <CONN_hediff_Greenthumb.labelNoun>กรีนทูม</CONN_hediff_Greenthumb.labelNoun>
+
+
+  <!-- ############## Compression Jaw ############## -->
+
+  <CONN_hediff_CompressionJaw.label>ขากรรไกรสายบีบอัด</CONN_hediff_CompressionJaw.label>
+  <CONN_hediff_CompressionJaw.description>การเปลี่ยนกรามเทียมด้วยเซอร์โวมอเตอร์ไฮดรอลิก ตัวเรือนพลาสสตีลบวกกับฟันสีทองบดผ่านเหล็กอย่างง่ายดาย และช่วยให้ผู้ขนส่งบีบอัดอาหารได้ในไม่กี่วินาที ความเร็วที่ยอดเยี่ยมของมันยังช่วยให้ผู้ขนส่งพูดได้อย่างง่ายดาย</CONN_hediff_CompressionJaw.description>
+  <CONN_hediff_CompressionJaw.labelNoun>ขากรรไกรไฮดรอลิก</CONN_hediff_CompressionJaw.labelNoun>
+
+
+  <!-- ############## Compression Stomach ############## -->
+
+  <CONN_hediff_CompressionStomach.label>กระเพาะอาหารสายบีบ</CONN_hediff_CompressionStomach.label>
+  <CONN_hediff_CompressionStomach.description>กระเพาะไบโอนิคที่แข็งแรงซึ่งย่อยอาหารในอัตราที่เหนือจินตนาการเนื่องจากเซอร์โวมอเตอร์ไฮดรอลิกภายใน นิ่วสามารถกินเข้าไปและทำให้สลายไปในไม่ช้าหลังจากนั้น ต้องขอบคุณเครื่องผสมกรด muriatic ในตัว</CONN_hediff_CompressionStomach.description>
+  <CONN_hediff_CompressionStomach.labelNoun>กระเพาะอาหารไบโอนิค</CONN_hediff_CompressionStomach.labelNoun>
+
+
+  <!-- ############## Flashlight ############## -->
+
+  <CONN_hediff_FlashLight.label>ไฟฉาย</CONN_hediff_FlashLight.label>
+  <CONN_hediff_FlashLight.description>ไฟฉายส่องสว่างในที่มืด ติดตั้งที่ข้างหู</CONN_hediff_FlashLight.description>
+  <CONN_hediff_FlashLight.labelNoun>ไฟฉาย</CONN_hediff_FlashLight.labelNoun>
+
+
+  <!-- ############## Musclewire ############## -->
+
+  <CONN_hediff_Musclewire.label>สายกล้ามเนื้อ</CONN_hediff_Musclewire.label>
+  <CONN_hediff_Musclewire.description>การหลอมรวมที่สมบูรณ์ของกล้ามเนื้อทั้งหมดในร่างกายด้วยช่องเดินสาย เพิ่มความเร็วในการเคลื่อนที่และความว่องไวอย่างมาก</CONN_hediff_Musclewire.description>
+  <CONN_hediff_Musclewire.labelNoun>เส้นกล้ามเนื้อ</CONN_hediff_Musclewire.labelNoun>
+
+
+</LanguageData>

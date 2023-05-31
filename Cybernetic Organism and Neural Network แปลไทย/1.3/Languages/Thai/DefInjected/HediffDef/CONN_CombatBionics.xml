@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ############## Zoom ############## -->
+
+  <CONN_hediff_Zoom.label>ซูม</CONN_hediff_Zoom.label>
+  <CONN_hediff_Zoom.description>ตาเทียมที่ได้รับการปรับปรุง ด้วยการเชื่อมโยงเส้นประสาทไบโอเจล ตัวประมวลผลล่วงหน้าสัญญาณภายใน โมดูลซ่อมแซมตัวเอง เซ็นเซอร์ไวด์สเปกตรัม และตัวส่งสัญญาณ Synaptic Impulse จึงดีกว่าตาชีวภาพในเกือบทุกด้าน ตัวเชื่อมต่อประสาทต้นแบบช่วยให้ผู้ใช้สามารถซูมเข้าและออกตามความคิด</CONN_hediff_Zoom.description>
+  <CONN_hediff_Zoom.labelNoun>ตาไบโอนิค</CONN_hediff_Zoom.labelNoun>
+
+
+  <!-- ############## Energy Fist ############## -->
+
+  <CONN_hediff_EnergyFist.label>หมัดพลังงาน</CONN_hediff_EnergyFist.label>
+  <CONN_hediff_EnergyFist.description>อุปกรณ์เปลี่ยนมือที่เน้นการสู้รบประกอบด้วยมือเทคโนโลยีและระบบสูบน้ำที่ใช้งานอยู่ภายในข้อมือ ปั๊มช่วยให้เจาะได้อย่างรวดเร็วและควบคุมได้ ทริกเกอร์เชิงกลช่วยให้คุณควบคุมเกี่ยวกับพลังที่แท้จริงของมันด้วยการเพิ่มความเร็วอันทรงพลังที่ล้อมรอบด้วยตัวเชื่อมต่อประสาทและพลังงานจากแบตเตอรี่ไมโครเทคโนโลยีขั้นสูง</CONN_hediff_EnergyFist.description>
+  <CONN_hediff_EnergyFist.comps.0.tools.0.label>แขน</CONN_hediff_EnergyFist.comps.0.tools.0.label>
+  <CONN_hediff_EnergyFist.labelNoun>หมัดพลังงาน</CONN_hediff_EnergyFist.labelNoun>
+
+
+  <!-- ############## Elastic Achilles ############## -->
+
+  <CONN_hediff_ElasticAchilles.label>เอ็นร้อยหวายยืดหยุ่น</CONN_hediff_ElasticAchilles.label>
+  <CONN_hediff_ElasticAchilles.description>โมดูลขาไบโอนิคนี้สามารถพยุงชายคนหนึ่งไว้ได้ แม้ไม่มีเนื้อติดกระดูกก็ตาม มันถูกออกแบบมาเพื่อลบล้างจุดอ่อนสุดท้ายของมนุษย์ในการต่อสู้ระยะประชิด นั่นคือจุดอ่อนของจุดอ่อน โดยแทนที่ด้วยรุ่นที่ยืดหยุ่นมากขึ้นและอ่อนไหวน้อยลง เป็นที่ชื่นชอบของหน่วยภาคพื้นหนัก มาพร้อมกับชิ้นส่วนทั้งหมดสำหรับการสร้างใหม่ทั้งหมด</CONN_hediff_ElasticAchilles.description>
+  <CONN_hediff_ElasticAchilles.labelNoun>ส้นเท้าไบโอนิคของอคิลลิส</CONN_hediff_ElasticAchilles.labelNoun>
+
+
+  <!-- ############## Cyclops Visor ############## -->
+
+  <CONN_hediff_CyclopsVisor.label>ตาไซคลอป</CONN_hediff_CyclopsVisor.label>
+  <CONN_hediff_CyclopsVisor.description>ดวงตาไบโอนิคแบบไฮบริดและระบบตรวจจับเป้าหมายพร้อมตัวกรองการปรับแต่งเต็มรูปแบบและการสแกนข้อมูล สามารถเชื่อมโยงกับหน่วยความจำโดยเชื่อมต่อกับระบบประสาทส่วนกลาง เพิ่มการมองเห็นและความคมชัด</CONN_hediff_CyclopsVisor.description>
+  <CONN_hediff_CyclopsVisor.labelNoun>ตาไซคลอปส์</CONN_hediff_CyclopsVisor.labelNoun>
+
+
+  <!-- ############## Laser Detection ############## -->
+
+  <CONN_hediff_LaserDetection.label>อุปกรณ์ตรวจจับด้วยเลเซอร์</CONN_hediff_LaserDetection.label>
+  <CONN_hediff_LaserDetection.description>อุปกรณ์ตรวจจับด้วยเลเซอร์ ติดตั้งที่ข้างหู เลเซอร์จะสแกนสภาพแวดล้อมและแสดงข้อมูลสำคัญทั้งหมดบนจอแสดงผ้าปิดตาแบบขยายได้ ปรับปรุงการมองเห็นอย่างมาก ในขณะที่เพิ่มการตรวจจับเป้าหมายควบคู่ไปกับเครื่องหมายอัตโนมัติที่สวยงามของมัน</CONN_hediff_LaserDetection.description>
+  <CONN_hediff_LaserDetection.labelNoun>อุปกรณ์ตรวจจับด้วยเลเซอร์</CONN_hediff_LaserDetection.labelNoun>
+
+
+  <!-- ############## Sensoric Earside  ############## -->
+
+  <CONN_hediff_SensoricEarside.label>หูฟังเซ็นเซอร์</CONN_hediff_SensoricEarside.label>
+  <CONN_hediff_SensoricEarside.description>อุปกรณ์ประสาทสัมผัสการได้ยินและระบบตรวจจับเป้าหมาย แทนที่หู ซึ่งช่วยให้คุณได้ยินเสียงเข็มหล่นจากระยะไกล</CONN_hediff_SensoricEarside.description>
+  <CONN_hediff_SensoricEarside.labelNoun>หูฟังเซ็นเซอร์</CONN_hediff_SensoricEarside.labelNoun>
+
+
+</LanguageData>

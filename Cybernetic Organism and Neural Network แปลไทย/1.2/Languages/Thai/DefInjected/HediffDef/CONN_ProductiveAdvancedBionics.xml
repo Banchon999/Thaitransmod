@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ############## Energetic Lung ############## -->
+
+  <CONN_hediff_EnergeticLung.label>ปอดพลังงาน</CONN_hediff_EnergeticLung.label>
+  <CONN_hediff_EnergeticLung.description>ปอดไบโอนิคพร้อมเครื่องจ่ายออกซิเจนเหลว สร้างขึ้นสำหรับการเดินทางในอวกาศของมนุษย์ในยุคที่ยังไม่มีเครื่องแยกออกซิเจน มีถังออกซิเจนเหลวเสริมช่วยให้หายใจได้นาน สิ่งเหล่านี้สามารถสร้างฐานของระบบทางเดินหายใจของมนุษย์ได้ โมดูลพิเศษนี้เข้ามาแทนที่การฝึกฝนและการควบคุมตนเองเป็นเวลาหลายปี</CONN_hediff_EnergeticLung.description>
+  <CONN_hediff_EnergeticLung.labelNoun>ปอดไบโอนิค</CONN_hediff_EnergeticLung.labelNoun>
+
+
+  <!-- ############## Energetic Kidney ############## -->
+
+  <CONN_hediff_EnergeticKidney.label>ไตพลัง</CONN_hediff_EnergeticKidney.label>
+  <CONN_hediff_EnergeticKidney.description>ไตไบโอนิคเพื่อความทนทานและความแข็งแรงที่มากขึ้น ไตถูกแทนที่ด้วยตัวกรองปฏิกิริยาในการออกแบบแบบไฮบริดนี้ โดยจะปล่อยอิมมูโนทอกซินเข้าสู่ระบบ ปกป้องผู้ใช้จากแม้แต่โรคที่ร้ายแรงที่สุด</CONN_hediff_EnergeticKidney.description>
+  <CONN_hediff_EnergeticKidney.labelNoun>ไตไบโอนิค</CONN_hediff_EnergeticKidney.labelNoun>
+
+
+  <!-- ############## Energy Core ############## -->
+
+  <CONN_hediff_EnergyCore.label>แกนพลังงาน</CONN_hediff_EnergyCore.label>
+  <CONN_hediff_EnergyCore.description>หัวใจเทียมขั้นสูง มีใยกล้ามเนื้อสังเคราะห์เพื่อการเต้นของหัวใจที่สมจริง พร้อมปั๊มการไหลเวียนสูงเพื่อการไหลเวียนที่รวดเร็วในช่วงที่มีความเครียดสูง มันดีกว่าหัวใจทางชีวภาพในเกือบทุกๆ ด้านด้วยซุปเปอร์คอร์ขั้นสูงซึ่งสร้างจากเซลล์พลังงานกลไก</CONN_hediff_EnergyCore.description>
+  <CONN_hediff_EnergyCore.labelNoun>แกนพลังงาน</CONN_hediff_EnergyCore.labelNoun>
+
+
+  <!-- ############## Autonomic Antibodies ############## -->
+
+  <CONN_hediff_Autonomicviruskiller.label>ฆ่าไวรัสอัตโนมัติ</CONN_hediff_Autonomicviruskiller.label>
+  <CONN_hediff_Autonomicviruskiller.description>เสริมระบบภูมิคุ้มกันด้วยแอนติบอดีกลไกที่จะค้นหาและทำลายอันตรายใดๆ ในระบบไหลเวียนโลหิต ใช้โดยแพทย์ต่อสู้ในสภาพแวดล้อมที่อันตราย</CONN_hediff_Autonomicviruskiller.description>
+  <CONN_hediff_Autonomicviruskiller.labelNoun>เครื่องฆ่าไวรัสอัตโนมัติ</CONN_hediff_Autonomicviruskiller.labelNoun>
+
+
+  <!-- ############## Aurum ############## -->
+
+  <CONN_hediff_Aurum.label>ออรัม</CONN_hediff_Aurum.label>
+  <CONN_hediff_Aurum.description>หน่วยตาที่ได้รับการดัดแปลง ซึ่งสะท้อนหน้าจอบนม่านตา สายลับวิเคราะห์คู่ค้าปัจจุบัน ติดตามการเจรจา เข้าหุ้น เปรียบเทียบราคาตลาด และจัดการสินเชื่อแบบแอนะล็อก รูปแบบนี้ใช้เป็นวิธีการโอนเงินระหว่างกิลด์การค้าอย่างรอบคอบ เจ้าของสามารถข้ามไฟร์วอลล์ตลาดมืดได้โดยไม่มีข้อจำกัด นับเป็นสินค้าต้องห้าม</CONN_hediff_Aurum.description>
+  <CONN_hediff_Aurum.labelNoun>และออรัม</CONN_hediff_Aurum.labelNoun>
+
+
+</LanguageData>
